@@ -1,0 +1,428 @@
+--------------------------------------------------------------------------------
+
+https://www.itv.com/watch/categories/films
+
+--------------------------------------------------------------------------------
+
+view-source:https://www.itv.com/watch/mean-girls/10a0576
+
+<script id="__NEXT_DATA__" type="application/json">
+  {
+    "props": {
+      "pageProps": {
+        "navAdServerParams": {
+          "area": "video",
+          "programmeTitle": "Mean Girls",
+          "channel": "ITV2",
+          "category": "FILM",
+          "episodeId": "10_0576"
+        },
+        "forceRefresh": true,
+        "isAccessibleByKids": false,
+        "newsVideos": null,
+        "subnav": null,
+        "programme": {
+          "ccid": "wff47fy",
+          "channel": {
+            "name": "ITV2"
+          },
+          "contentOwner": null,
+          "description": "Gossip, betrayal and teen angst collide in this hit 00s comedy ",
+          "encodedProgrammeId": {
+            "letterA": "10a0576",
+            "underscore": "10_0576"
+          },
+          "genres": [{
+            "id": "FILM",
+            "name": "Film",
+            "hubCategory": true
+          }],
+          "heroCtaLabel": "Watch Film",
+          "image": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w={width}\u0026h={height}\u0026q={quality}\u0026blur={blur}\u0026bg={bg}",
+          "longDescription": "Gossip, betrayal and teen angst collide in this hit 00s comedy starring Lindsay Lohan. When 16-year-old Cady joins a new school, she encounters the infamous Plastics clique.",
+          "numberOfAvailableSeries": 0,
+          "partnership": null,
+          "programmeId": "10_0576",
+          "tier": ["FREE"],
+          "title": "Mean Girls",
+          "titleSlug": "mean-girls",
+          "visuallySigned": false,
+          "imagePresets": {
+            "0": {
+              "1x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=767\u0026q=65\u0026blur=0\u0026bg=false",
+              "2x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=1074\u0026q=65\u0026blur=0\u0026bg=false"
+            },
+            "768": {
+              "1x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=1279\u0026q=80\u0026blur=0\u0026bg=false",
+              "2x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=1791\u0026q=80\u0026blur=0\u0026bg=false"
+            },
+            "1280": {
+              "1x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=1597\u0026q=80\u0026blur=0\u0026bg=false",
+              "2x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=2236\u0026q=80\u0026blur=0\u0026bg=false"
+            },
+            "1920": {
+              "1x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=1597\u0026q=80\u0026blur=0\u0026bg=false",
+              "2x": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w=2236\u0026q=80\u0026blur=0\u0026bg=false"
+            }
+          }
+        },
+        "seriesList": [{
+          "seriesNumber": "others",
+          "seriesLabel": "Other Episodes",
+          "fullSeries": false,
+          "seriesType": "FILM",
+          "longRunning": false,
+          "numberOfAvailableEpisodes": 1,
+          "titles": [{
+            "ccid": "wff47fy",
+            "accessibilityTags": ["s"],
+            "audioDescribed": false,
+            "availabilityFeatures": ["MPEG_DASH", "OUTBAND_WEBVTT", "PLAYREADY", "WIDEVINE"],
+            "availabilityFrom": "2025-01-18T07:00:00Z",
+            "availabilityUntil": "2025-06-30T22:59:00Z",
+            "genres": [{
+              "id": "FILM",
+              "name": "Film",
+              "hubCategory": true
+            }],
+            "channel": "ITV2",
+            "fullSeriesRange": [],
+            "heroCtaLabel": "Watch Film",
+            "contentInfo": "",
+            "contentOwner": null,
+            "dateTime": null,
+            "description": "Gossip, betrayal and teen angst collide in this hit 00s comedy ",
+            "duration": "1h 50m",
+            "episode": null,
+            "episodeId": "10/0576/0001",
+            "encodedEpisodeId": {
+              "letterA": "10a0576a0001",
+              "underscore": "10_0576_0001"
+            },
+            "episodeTitle": "Mean Girls",
+            "guidance": "with strong language and adult humour",
+            "image": "https://ovp.itv.com/v2/images/film/wff47fy/itv_hub/06_RailPromoLandscape/16x9?distributionPartner=itv_hub\u0026fallback=standard\u0026w={width}\u0026h={height}\u0026q={quality}\u0026blur={blur}\u0026bg={bg}",
+            "linearContent": false,
+            "longDescription": "Gossip, betrayal and teen angst collide in this hit 00s comedy starring Lindsay Lohan. When 16-year-old Cady joins a new school, she encounters the infamous Plastics clique.",
+            "longRunning": false,
+            "notFormattedDuration": "PT1H50M",
+            "partnership": null,
+            "playlistUrl": "https://magni.itv.com/playlist/itvonline/ITV/10_0576_0001.003",
+            "premium": false,
+            "productionId": "10/0576/0001#003",
+            "productionType": "FILM",
+            "productionYear": 2004,
+            "programmeId": "10/0576",
+            "series": null,
+            "subtitled": true,
+            "tier": ["FREE"],
+            "visuallySigned": false,
+            "regionalisation": false,
+            "broadcastDateTime": null
+          }]
+        }],
+        "initialSelectedSeries": "others"
+      },
+      "config": {
+        "baseUrl": "",
+        "canonicalUrl": "https://www.itv.com",
+        "imagesUrl": "https://assets.fe.itv.com",
+        "playerBaseUrl": "https://player-stable-endpoint.{env}.mp.itv.com/dotcom/",
+        "pesServerUrl": "https://secure.pes.itv.com/1.1.3/event",
+        "playerFilename": {
+          "desktop": "desktop",
+          "mobile": "mobile"
+        },
+        "services": {
+          "promoted": "https://promoted.hubsvc.itv.com",
+          "contentInventory": "https://content-inventory.prd.oasvc.itv.com",
+          "content": "https://content.prd.user.itv.com",
+          "myList": "https://my-list.prd.user.itv.com",
+          "recommendations": "https://recommendations.prd.user.itv.com",
+          "scheduled": "https://scheduled.oasvc.itv.com",
+          "thalia": "https://thalia.prd.fe.itv.com"
+        },
+        "features": {
+          "amplitude": true,
+          "userServices": true,
+          "premium": true,
+          "britbox": false,
+          "myList": true,
+          "continueWatching": true,
+          "becauseYouWatched": true,
+          "newsShortForm": true,
+          "regionalNewsSignIn": true,
+          "sportShortFormHomepage": false,
+          "communicationSettings": true,
+          "homepageSponsorship": true,
+          "recommendedForYou": true,
+          "freeTrialCardCheck": true,
+          "regionalisation": true,
+          "cassieCookiesManagement": true,
+          "premiumDiscounts": true,
+          "playerUpsellButton": true,
+          "mostPopular": true,
+          "emailVerification": false,
+          "livePagePollingInterval": "900001",
+          "playerStartAgain": true,
+          "searchLinear": true,
+          "simCastEnabled": true,
+          "vodCastEnabled": true,
+          "convivaTrackingEnabled": true,
+          "convivaAppInsights": false,
+          "svodExperience": true,
+          "profilesManagement": true,
+          "cckEnabled": true,
+          "switchProfilesManagement": true,
+          "securityBugcrowdSubmissionsForm": true,
+          "collectionHeroSlides": true,
+          "enableFASTRailOnTVGuide": true,
+          "newTvGuideBackend": true,
+          "enhancedCategories": true,
+          "impactPremiumTracking": true,
+          "newsHomepageHero": true,
+          "newsCategoryHomepageRail": true,
+          "sportShortFormCategoryPage": true,
+          "kindredPromotions": {
+            "visible": true,
+            "showTo": ["avod", "svod"]
+          },
+          "emailVerificationUiEnabled": false,
+          "adServedCollections": true,
+          "browserHomepageHeroStyleRefinement202501": true,
+          "preTxJourney": {
+            "enabled": true,
+            "programmes": [{
+              "isLiveEvent": false,
+              "titleSlug": "celebrity-big-brother",
+              "heroCta": {
+                "text": "CATCH UP ON SERIES 1",
+                "url": {
+                  "browser": "/watch/celebrity-big-brother/10a5342",
+                  "ctv": "/categories/entertainment"
+                }
+              },
+              "genres": [{
+                "id": "ENTERTAINMENT",
+                "name": "Entertainment \u0026 Reality"
+              }],
+              "backgroundImageUrl": "https://images.ctfassets.net/bd5zurrrnk1g/5qxfA7VC1A2KjvXJs9Zt42/a992f370172c80742d4859abe6936c2e/CBB_01_Hero_DesktopCTV_NoLogo_2560x1440.jpg",
+              "ccid": "9mm0f1p",
+              "title": "Celebrity Big Brother",
+              "description": "Ready for more drama, more rivalry and more shocking twists? Join hosts \u003cstrong\u003eAJ Odudu\u003c/strong\u003e and \u003cstrong\u003eWill Best\u003c/strong\u003e as they welcome a fresh batch of \u003cstrong\u003ecelebs\u003c/strong\u003e into the \u003cstrong\u003e2025 Celebrity Big Brother house\u003c/strong\u003e.",
+              "contentInfo": ["Entertainment \u0026 Reality", "Celebrity", "Series 2"],
+              "seo": {
+                "description": "Ready for more drama, more rivalry and more shocking twists? Join hosts AJ Odudu and Will Best as they welcome a fresh batch of celebs into the 2025 Celebrity Big Brother house.",
+                "title": "Celebrity Big Brother"
+              },
+              "strapline": null,
+              "titleLogo": "https://images.ctfassets.net/bd5zurrrnk1g/2LQLSv941kvVW4JxjKb22E/e3d382cf8c317516407860f7a39ee704/CelebrityBigBrother2025_09_TitleLogo.png",
+              "brandLegacyId": "10/5342",
+              "subTags": ["Big Brother", "Housemates", "Diary Room", "Evictions"],
+              "isPaid": false
+            }, {
+              "titleLogo": "https://images.ctfassets.net/bd5zurrrnk1g/1rQvdtnWcP51Z6XIawsBlP/66da19143a8d2334ded7e10ac8d94531/Protection_SER_1kcx59m_09_TitleLogo.png",
+              "contentInfo": ["DRAMA", "CRIME \u0026 THRILLER", "LIMITED SERIES"],
+              "seo": {
+                "title": "Protection",
+                "description": "Fatal failings, lives shattered - gripping new drama with Siobhan Finneran. When a family under witness protection is murdered, DI Liz Nyles must untangle a web of corruption."
+              },
+              "backgroundImageUrl": "https://images.ctfassets.net/bd5zurrrnk1g/6Nn7ikrn7U0LS5TepIzm0j/e4c00973a8aa6538ce75fdea825279ed/Protection_SER_1kcx59m_06_RailPromoLandscape_NoLogo_1920x1080.jpg",
+              "strapline": null,
+              "genres": [{
+                "name": "DRAMA",
+                "id": "DRAMA_AND_SOAPS"
+              }],
+              "isPaid": false,
+              "subTags": ["Suspense", "Detective", "Conspiracy", "Katherine Kelly"],
+              "heroCta": {
+                "text": "VIEW MORE DRAMA",
+                "url": {
+                  "browser": "/watch/categories/drama-soaps",
+                  "ctv": "/categories/drama-soaps"
+                }
+              },
+              "isLiveEvent": false,
+              "titleSlug": "protection",
+              "ccid": "fmtbnd1",
+              "brandLegacyId": "10/4495",
+              "description": "Fatal failings, lives shattered - gripping \u003cstrong\u003enew drama\u003c/strong\u003e with \u003cstrong\u003eSiobhan Finneran\u003c/strong\u003e. When a family under witness protection is murdered, DI Liz Nyles must untangle a \u003cstrong\u003eweb of corruption\u003c/strong\u003e.",
+              "title": "Protection"
+            }]
+          },
+          "adsOnPause": true,
+          "amazonInAppPurchase": false,
+          "amazonPromoOfferRedeemBy": "",
+          "androidTvIapWrapperVersion": 0,
+          "androidTvInAppPurchase": false,
+          "androidTvSubscriptionSalt": [],
+          "appLoadSignIn": false,
+          "blackFriday": {
+            "options": {
+              "start_ts": 1731931200000,
+              "content": {
+                "heroButtonLegal": "then £{{discountedMonthly}} a month for 2 months followed by £{{monthly}}/month‡",
+                "footerLegal_nowTV": "*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays\u003cbr\u003ewith ads. †You can cancel at any time before your first or next billing date to avoid future charges.\u003cbr\u003e‡Offer runs between 12:00pm on 18/11/2024 and 11:59pm on 09/12/2024. Excludes existing ITVX PREMIUM subscribers. Use of the voucher\u003cbr\u003ecode will entitle you to 2 months access to ITVX PREMIUM for the reduced price of £{{discountedMonthly}}/month. Your subscription will auto-renew. We will\u003cbr\u003echarge your payment method at the reduced rate for 2 months and then at the standard price (currently £{{monthly}}) on a monthly basis until you\u003cbr\u003ecancel. Any new ITVX PREMIUM subscriber will also benefit from a one-time 7 day free trial, with the subscription beginning at the end of\u003cbr\u003ethe trial. You can cancel at any time before your first or next billing date to avoid future charges. 16+. Not available to redeem via Google Pay\u003cbr\u003eon Google TV. One use per person. UK, Channel Islands and Isle of Man only. Not valid with any other offer. ITV reserves the right to change\u003cbr\u003eor cancel this offer at any time. ITVX Terms of Use and Privacy \u0026 Cookie Information (\u003cbrand\u003ewww.itv.com/terms/streaming\u003c/brand\u003e and \u003cbrand\u003ewww.itv.com/\u003cbr\u003eprivacy\u003c/brand\u003e) will apply.\u003cbr\u003e\u003cbr\u003e© ITV Consumer Limited 2024",
+                "subtitle": "GO PREMIUM FOR £{{discountedMonthly}} A MONTH FOR THE FIRST 2\u003cbr\u003eMONTHS",
+                "benefitsLegal": "‡Ends 11:59pm 09/12/24. Excludes existing ITVX PREMIUM subscribers. £{{discountedMonthly}}/month for 2 months then auto-renews at £{{monthly}}/month. Full T\u0026Cs below.\u003cbr\u003e*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays with ads. †You can cancel at any time before your first or next billing date to avoid future charges.",
+                "footerButton_noTrial": "GO PREMIUM",
+                "footerButton": "START YOUR FREE TRIAL",
+                "heroButton_noTrial": "GO PREMIUM",
+                "title": "\u003cbrand_bold\u003eBLACK FRIDAY OFFER\u003c/brand_bold\u003e\u003cbr\u003e£{{discountedMonthly}} A MONTH‡",
+                "benefit_3": "Cancel anytime†",
+                "heroButton": "START YOUR FREE TRIAL",
+                "benefit_4": "Download on the go",
+                "footerLegal": "*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays\u003cbr\u003ewith ads. †You can cancel at any time before your first or next billing date to avoid future charges.\u003cbr\u003e‡Offer runs between 12:00pm on 18/11/2024 and 11:59pm on 09/12/2024. Excludes existing ITVX PREMIUM subscribers. This offer will\u003cbr\u003eentitle you to 2 months access to ITVX PREMIUM for the reduced price of £{{discountedMonthly}}/month. Your subscription will auto-renew. We will charge your\u003cbr\u003epayment method at the reduced rate for 2 months and then at the standard price (currently £{{monthly}}) on a monthly basis until you cancel. Any\u003cbr\u003enew ITVX PREMIUM subscriber will also benefit from a one-time 7 day free trial, with the subscription beginning at the end of the trial. You\u003cbr\u003ecan cancel at any time before your first or next billing date to avoid future charges. 16+. Not available to redeem via Google Pay on Google\u003cbr\u003eTV. One use per person. UK, Channel Islands and Isle of Man only. Not valid with any other offer. ITV reserves the right to change or cancel\u003cbr\u003ethis offer at any time. ITVX Terms of Use and Privacy \u0026 Cookie Information (\u003cbrand\u003ewww.itv.com/terms/streaming\u003c/brand\u003e and \u003cbrand\u003ewww.itv.com/privacy\u003c/brand\u003e) will\u003cbr\u003eapply.\u003cbr\u003e\u003cbr\u003e© ITV Consumer Limited 2024",
+                "benefit_1": "100s more hit films and shows",
+                "benefit_2": "Watch ad-free*",
+                "footerLegalText": "‡New customer offer until 11:59pm 09/12/24. Auto-renews: £{{discountedMonthly}}/month for 2 months then £{{monthly}}/month. Offer T\u0026Cs at\u003cbr\u003e\u003cbrand\u003ehttps://www.itv.com/watch/user/itvx-premium\u003c/brand\u003e\u003cbr\u003e*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays with ads.\u003cbr\u003e†You can cancel at any time before your first or next billing date to avoid future charges."
+              },
+              "end_ts": 1733788740000
+            },
+            "enabled": true
+          },
+          "britboxUserSignin": true,
+          "cassieBaseUrl": "",
+          "chartbeat": true,
+          "contentPartnerAttribution": true,
+          "contentSquare": true,
+          "cookieConsentManagement": false,
+          "cptUrl": "https://cpt.itv.com/0.0.4/event",
+          "ctvDevUrlMapping": "",
+          "customUrlLauncher": false,
+          "dPadTrickPlay": false,
+          "dar": false,
+          "disablePremiumFreeTrial": false,
+          "disablePremiumFreeTrialNowTV": false,
+          "dobCapture": true,
+          "dynamicQrCodePinPairing": false,
+          "eDrm": false,
+          "enableEpgInfiniteScroll": true,
+          "enableGTM": true,
+          "enablePlayerError3016": false,
+          "enabledPlayerErrors": [],
+          "enquiryAd": false,
+          "epgCustomCtaList": {},
+          "exclusive-live-channel-type": "simulcast-fast",
+          "externalContinueWatching": false,
+          "externalMyList": false,
+          "freeviewPlayerEngine": false,
+          "ga4": {
+            "enabled": true,
+            "strategy": "client"
+          },
+          "gtm-server-container": {
+            "serverUrl": "https://server-side-tagging-jxotrb4oja-uc.a.run.app/events",
+            "serverPreviewToken": ""
+          },
+          "homepageHeroExperience": false,
+          "itvUserStorageParity": false,
+          "linearServiceCookies": false,
+          "microSkip": false,
+          "networkLogin": false,
+          "newsCategoryHero": true,
+          "newsElectionScoreboard": {
+            "enabled": false
+          },
+          "newsLatestClipsFeed": true,
+          "newsSiteAds": true,
+          "nextjsNativeRouting": false,
+          "nowtvWidevine": true,
+          "oneClickUnsubscribe": true,
+          "onwardJourneyExperience": false,
+          "persoSectionExperimentKey": "",
+          "pesUrl": "https://secure.pes.itv.com/1.1.3/event",
+          "playbackParentalChecks": true,
+          "postcodeCapture": false,
+          "programmePageEpisodeSlider": false,
+          "regionalNews": true,
+          "regionalSimulcast": false,
+          "removeCitvFromEpg": false,
+          "restartInVodPlayer": false,
+          "restartOnProgrammePage": false,
+          "rokuContinueWatching": true,
+          "search": true,
+          "searchExperience": true,
+          "signedBSL": true,
+          "skipIntro": false,
+          "sportShortForm": true,
+          "subnavCcid": true,
+          "subscribeWithoutSignIn": true,
+          "test-for-docs": false,
+          "theo-player-rollout": 0,
+          "top10TileType": "numbered",
+          "tvGuide": true,
+          "tvGuideModal": false,
+          "videoDar": {
+            "enabled": false,
+            "options": {
+              "channelList": {
+                "FAST15": "FAST15",
+                "FAST16": "FAST16",
+                "FAST13": "FAST13",
+                "FAST3": "FAST3",
+                "FAST1": "FAST1",
+                "FAST7": "FAST7",
+                "FAST4": "FAST4",
+                "FAST18": "FAST18",
+                "FAST12": "FAST12",
+                "FAST2": "FAST2",
+                "FAST5": "FAST5",
+                "FAST6": "FAST6"
+              }
+            }
+          }
+        },
+        "analytics": {
+          "gtm": "GTM-MXQXBVC",
+          "cpt": {
+            "url": "https://cpt.itv.com/0.0.4/event"
+          },
+          "webVitals": {
+            "url": "https://http-inputs-itv.splunkcloud.com/services/collector"
+          },
+          "convivaAppInsightsCustomerKey": "822d428ad6a0a99e585ae79b04746ccfc541cad1",
+          "conviva": {
+            "test": {
+              "customerKey": "614f017665482d18dee1e746f4ad7140a2ca4eaa"
+            },
+            "prod": {
+              "customerKey": "822d428ad6a0a99e585ae79b04746ccfc541cad1"
+            }
+          }
+        },
+        "amplitudeDeployKey": "client-YKVVRsZUOnAPVh7Dr53rQokD5B7d0ko5",
+        "stripe": {
+          "publicKey": "pk_live_vbaeHtOKe3k0UNTPfpkiHhZv"
+        },
+        "cassieExcludedPaths": "'/terms/articles/cookies'"
+      },
+      "__N_SSP": true
+    },
+    "page": "/watch/[programmeSlug]/[programmeId]",
+    "query": {
+      "programmeSlug": "mean-girls",
+      "programmeId": "10a0576"
+    },
+    "buildId": "CqPFoLsLhkFbzSDCHB9Ti",
+    "assetPrefix": "/hades-assets",
+    "runtimeConfig": {
+      "version": "2.325.3"
+    },
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true,
+    "scriptLoader": []
+  }
+</script>
+
+--------------------------------------------------------------------------------
+
+notes:
+======
+
+* data structure is the same as that used for series
+  - films are treated as a special case..
+    having 1 season, and 1 episode
+
+--------------------------------------------------------------------------------

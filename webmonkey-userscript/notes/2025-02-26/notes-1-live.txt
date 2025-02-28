@@ -1,0 +1,3072 @@
+--------------------------------------------------------------------------------
+
+https://www.itv.com/watch
+
+-------------------------------------------------------------------------------- before login:
+
+view-source:https://www.itv.com/watch
+
+<script id="json-ld" type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "description": "ITVX is the streaming home for all of ITV and so much more! With exclusive new series launching every week, an ever-changing library of blockbuster movies, the nation's biggest live events, curated live streaming channels, thousands of box sets and the ability to access BritBox all in one place! Get ready for the UK's freshest streaming service. Stream for free or upgrade for more.",
+    "url": "https://www.itv.com/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "ITVX",
+      "logo": "https://app.10ft.itv.com/itvstatic/assets/images/brands/itvx/itvx-logo-for-light-backgrounds.jpg?q=80&format=jpg&w=1366&h=769&bg=false&blur=0"
+    },
+    "name": "ITVX",
+    "alternateName": "ITV Hub",
+    "sameAs": ["https://en.wikipedia.org/wiki/ITVX"]
+  }
+</script>
+
+<script id="__NEXT_DATA__" type="application/json">
+  {
+    "props": {
+      "pageProps": {
+        "channels": [{
+          "editorialId": "30w3x3K5q7jKPhdjw28DBU",
+          "fastPipeId": null,
+          "channelType": "simulcast",
+          "name": "ITV1",
+          "slug": "itv",
+          "isKidsChannel": false,
+          "id": "itv",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/ITV",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "68cmb4f",
+              "prodId": "88vrtlx",
+              "productionId": "68cmb4f",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "For The Love Of Dogs With Alison Hammond",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 3,
+              "seriesNumber": 12,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": "https://simulcast.itv.com/playlist/itvonline/itv",
+              "shortSynopsis": "Alison helps a pug with all sorts of different ailments, meets a German Shepherd who is scared of her own shadow, and helps to train a litter of lurcher pups.",
+              "britishSignLanguage": true,
+              "hasSubtitles": false,
+              "displayTitle": "For The Love Of Dogs With Alison Hammond",
+              "detailedDisplayTitle": "S12,E3",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:25:00Z",
+              "end": "2025-02-27T03:50:00Z",
+              "broadcastAt": "2025-02-27T03:26:39Z",
+              "broadcastStartTimestamp": 1740626799,
+              "timestamp": 1740626700,
+              "duration": 1500,
+              "timeEnd": "3.50am",
+              "timeStart": "3.25am",
+              "broadcastEndTimestamp": 1740628299,
+              "time": "3.25am - 3.50am"
+            },
+            "next": {
+              "titleId": "f94xd17",
+              "prodId": "5kgknq4",
+              "productionId": "f94xd17",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Unwind With ITV1",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 127,
+              "seriesNumber": 4,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": "https://simulcast.itv.com/playlist/itvonline/itv",
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Unwind With ITV1",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:50:00Z",
+              "end": "2025-02-27T05:05:00Z",
+              "broadcastAt": "2025-02-27T03:52:06Z",
+              "broadcastStartTimestamp": 1740628326,
+              "timestamp": 1740628200,
+              "duration": 4500,
+              "timeEnd": "5.05am",
+              "timeStart": "3.50am",
+              "broadcastEndTimestamp": 1740632826,
+              "time": "3.50am - 5.05am"
+            }
+          }
+        }, {
+          "editorialId": "15AUsvLXPh85rlfQ8KeF3w",
+          "fastPipeId": null,
+          "channelType": "simulcast",
+          "name": "ITV2",
+          "slug": "itv2",
+          "isKidsChannel": false,
+          "id": "itv2",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/ITV2",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:30:00Z",
+              "end": "2025-02-27T04:00:00Z",
+              "broadcastAt": "2025-02-27T03:30:00Z",
+              "broadcastStartTimestamp": 1740627000,
+              "timestamp": 1740627000,
+              "duration": 1800,
+              "timeEnd": "4am",
+              "timeStart": "3.30am",
+              "broadcastEndTimestamp": 1740628800,
+              "time": "3.30am - 4am"
+            },
+            "next": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:00:00Z",
+              "end": "2025-02-27T04:30:00Z",
+              "broadcastAt": "2025-02-27T04:00:00Z",
+              "broadcastStartTimestamp": 1740628800,
+              "timestamp": 1740628800,
+              "duration": 1800,
+              "timeEnd": "4.30am",
+              "timeStart": "4am",
+              "broadcastEndTimestamp": 1740630600,
+              "time": "4am - 4.30am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST15",
+          "editorialId": "2XSNGdLMbXlLtP9qIp8yFn",
+          "channelType": "fast",
+          "name": "TOWIE TV",
+          "slug": "fast15",
+          "isKidsChannel": false,
+          "channelDescription": "TOWIE Channel - all the break-ups and make-ups from over 20 series of The Only Way Is Essex",
+          "channelTitle": "TOWIE TV Channel",
+          "id": "fast15",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST15",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "m2g3bvz",
+              "prodId": "w9bxq33",
+              "productionId": "m2g3bvz",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "The Only Way is Essex",
+              "guidance": "With strong language and adult themes.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 9,
+              "seriesNumber": 28,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Saff wants to return to her carefree self after weeks of drama and extends an olive branch to Amy. Gatsby whisks Dani off on a fun trip to Norfolk, with all of his mates in tow.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Only Way is Essex",
+              "detailedDisplayTitle": "S28,E9",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:30:46.220Z",
+              "end": "2025-02-27T04:25:00.780Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740627046,
+              "duration": 3254,
+              "timeEnd": "4.25am",
+              "timeStart": "3.30am",
+              "broadcastEndTimestamp": null,
+              "time": "3.30am - 4.25am"
+            },
+            "next": {
+              "titleId": "56ybg0s",
+              "prodId": "jzgnhvf",
+              "productionId": "56ybg0s",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "The Only Way is Essex",
+              "guidance": "With strong language and adult themes.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 10,
+              "seriesNumber": 28,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Gatsby finds out about Courtney's allegation that he was texting girls behind Dani's back. Diags is determined to give his world record attempt another try.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Only Way is Essex",
+              "detailedDisplayTitle": "S28,E10",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:25:00.780Z",
+              "end": "2025-02-27T05:19:21.980Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740630300,
+              "duration": 3261,
+              "timeEnd": "5.19am",
+              "timeStart": "4.25am",
+              "broadcastEndTimestamp": null,
+              "time": "4.25am - 5.19am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST6",
+          "editorialId": "25VFPaeoACnu4pVvb3VrkB",
+          "channelType": "fast",
+          "name": "ITVX Kids",
+          "slug": "fast6",
+          "isKidsChannel": true,
+          "channelDescription": "Stream cartoons, movies and live action shows for kids - 24/7 on ITVX!",
+          "channelTitle": "ITVX Kids Channel",
+          "id": "fast6",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST6",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "hqp9cfy",
+              "prodId": "v66kcwx",
+              "productionId": "hqp9cfy",
+              "contentEntityType": "episode",
+              "title": "Wrong Question/The Leak/People Watchers",
+              "brandTitle": "Deep in the Bowl",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 3,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "In the goldfish world, some are celebrating, and others are racing. Meanwhile, there's a leak to fix in the Wilsons' fishbowl!",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Deep in the Bowl",
+              "detailedDisplayTitle": "S1,E3 Wrong Question/The Leak/People Watchers",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:35:52.640Z",
+              "end": "2025-02-27T03:42:55.200Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740627352,
+              "duration": 422,
+              "timeEnd": "3.42am",
+              "timeStart": "3.35am",
+              "broadcastEndTimestamp": null,
+              "time": "3.35am - 3.42am"
+            },
+            "next": {
+              "titleId": "tj69qpr",
+              "prodId": "m9nr5bh",
+              "productionId": "tj69qpr",
+              "contentEntityType": "episode",
+              "title": "Chop Chop/Sticky Fingers/Jet Packs",
+              "brandTitle": "Deep in the Bowl",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 4,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Leely practices vitamin-rich kung fu, fans desperately try to watch the end of a soccer game and Al tries to escape with a homemade jet pack.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Deep in the Bowl",
+              "detailedDisplayTitle": "S1,E4 Chop Chop/Sticky Fingers/Jet Packs",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:42:55.200Z",
+              "end": "2025-02-27T03:49:49.400Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740627775,
+              "duration": 414,
+              "timeEnd": "3.49am",
+              "timeStart": "3.42am",
+              "broadcastEndTimestamp": null,
+              "time": "3.42am - 3.49am"
+            }
+          }
+        }, {
+          "editorialId": "1mhNiPhBFHWr3cUAIXC2Gv",
+          "fastPipeId": null,
+          "channelType": "simulcast",
+          "name": "ITVBe",
+          "slug": "itvbe",
+          "isKidsChannel": false,
+          "id": "itvbe",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/ITVBe",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:30:00Z",
+              "end": "2025-02-27T04:00:00Z",
+              "broadcastAt": "2025-02-27T03:30:00Z",
+              "broadcastStartTimestamp": 1740627000,
+              "timestamp": 1740627000,
+              "duration": 1800,
+              "timeEnd": "4am",
+              "timeStart": "3.30am",
+              "broadcastEndTimestamp": 1740628800,
+              "time": "3.30am - 4am"
+            },
+            "next": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:00:00Z",
+              "end": "2025-02-27T04:30:00Z",
+              "broadcastAt": "2025-02-27T04:00:00Z",
+              "broadcastStartTimestamp": 1740628800,
+              "timestamp": 1740628800,
+              "duration": 1800,
+              "timeEnd": "4.30am",
+              "timeStart": "4am",
+              "broadcastEndTimestamp": 1740630600,
+              "time": "4am - 4.30am"
+            }
+          }
+        }, {
+          "editorialId": "1hpOJGarPkaAhT281HYac2",
+          "fastPipeId": null,
+          "channelType": "simulcast",
+          "name": "ITV3",
+          "slug": "itv3",
+          "isKidsChannel": false,
+          "id": "itv3",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/ITV3",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:30:00Z",
+              "end": "2025-02-27T04:00:00Z",
+              "broadcastAt": "2025-02-27T03:30:00Z",
+              "broadcastStartTimestamp": 1740627000,
+              "timestamp": 1740627000,
+              "duration": 1800,
+              "timeEnd": "4am",
+              "timeStart": "3.30am",
+              "broadcastEndTimestamp": 1740628800,
+              "time": "3.30am - 4am"
+            },
+            "next": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:00:00Z",
+              "end": "2025-02-27T04:30:00Z",
+              "broadcastAt": "2025-02-27T04:00:00Z",
+              "broadcastStartTimestamp": 1740628800,
+              "timestamp": 1740628800,
+              "duration": 1800,
+              "timeEnd": "4.30am",
+              "timeStart": "4am",
+              "broadcastEndTimestamp": 1740630600,
+              "time": "4am - 4.30am"
+            }
+          }
+        }, {
+          "editorialId": "4twkX9FtnURS4S7FaQ60A8",
+          "fastPipeId": null,
+          "channelType": "simulcast",
+          "name": "ITV4",
+          "slug": "itv4",
+          "isKidsChannel": false,
+          "id": "itv4",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/ITV4",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:30:00Z",
+              "end": "2025-02-27T04:00:00Z",
+              "broadcastAt": "2025-02-27T03:30:00Z",
+              "broadcastStartTimestamp": 1740627000,
+              "timestamp": 1740627000,
+              "duration": 1800,
+              "timeEnd": "4am",
+              "timeStart": "3.30am",
+              "broadcastEndTimestamp": 1740628800,
+              "time": "3.30am - 4am"
+            },
+            "next": {
+              "titleId": null,
+              "prodId": null,
+              "productionId": null,
+              "contentEntityType": null,
+              "title": null,
+              "brandTitle": "Teleshopping",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": null,
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Teleshopping",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:00:00Z",
+              "end": "2025-02-27T04:30:00Z",
+              "broadcastAt": "2025-02-27T04:00:00Z",
+              "broadcastStartTimestamp": 1740628800,
+              "timestamp": 1740628800,
+              "duration": 1800,
+              "timeEnd": "4.30am",
+              "timeStart": "4am",
+              "broadcastEndTimestamp": 1740630600,
+              "time": "4am - 4.30am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST13",
+          "editorialId": "5LznV0HcUj5l8VMRusmTfb",
+          "channelType": "fast",
+          "name": "Love Island 24/7",
+          "slug": "fast13",
+          "isKidsChannel": false,
+          "channelDescription": "Stream the Love Island Channel: No grafting required, just escape to the villa with 24/7 Love Island",
+          "channelTitle": "Love Island Channel",
+          "id": "fast13",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST13",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/21300c2f53feeb0dbf0113fbe8c67939/LoveIsland.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "mj4brpl",
+              "prodId": "3j374kg",
+              "productionId": "mj4brpl",
+              "contentEntityType": "episode",
+              "title": "Love Island USA: The Drop 2",
+              "brandTitle": "Love Island USA",
+              "guidance": "Contains strong language \u0026 scenes of a sexual nature",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 8,
+              "seriesNumber": 3,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "The Islanders are sent an unboxing challenge with a twist. As they open each box there is a different challenge they have to perform - anything could happen!",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Love Island USA",
+              "detailedDisplayTitle": "S3,E8 Love Island USA: The Drop 2",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:53:57.040Z",
+              "end": "2025-02-27T03:45:52.200Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740624837,
+              "duration": 3115,
+              "timeEnd": "3.45am",
+              "timeStart": "2.53am",
+              "broadcastEndTimestamp": null,
+              "time": "2.53am - 3.45am"
+            },
+            "next": {
+              "titleId": "f8w1xhw",
+              "prodId": "vmxty9v",
+              "productionId": "f8w1xhw",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Love Island USA",
+              "guidance": "Contains adult conversations",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 9,
+              "seriesNumber": 3,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Tensions rise amongst the Islanders after the previous night's Kissing Booth game. Cinco mulls over his decision between Cashay and Trina, but new Islander Lei-Yen is also turning his head.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Love Island USA",
+              "detailedDisplayTitle": "S3,E9",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:45:52.200Z",
+              "end": "2025-02-27T04:36:21.720Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740627952,
+              "duration": 3029,
+              "timeEnd": "4.36am",
+              "timeStart": "3.45am",
+              "broadcastEndTimestamp": null,
+              "time": "3.45am - 4.36am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST4",
+          "editorialId": "1yWl4yQ2BU1PRqENzQqWf8",
+          "channelType": "fast",
+          "name": "Saturday Night Every Night!",
+          "slug": "fast4",
+          "isKidsChannel": false,
+          "channelDescription": "Get stuck into quizzes, games and talent shows for the ultimate night in on ITVX",
+          "channelTitle": "Saturday Night, Every Night! Channel",
+          "id": "fast4",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST4",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/5wRnpE9FMaD1EPqyy39iaP/568189f8256184a0230e1f1f9c95a587/SaturdayNightEveryNight.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "c8v3qdr",
+              "prodId": "y1z91z6",
+              "productionId": "c8v3qdr",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Lingo",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 3,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Seeking victory are London cabbie Lee and his partner Tasha, mother and son June and Mickey from Fife, and football-mad father and son Michael and Craig from Birmingham.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Lingo",
+              "detailedDisplayTitle": "S1,E3",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:59:42.210Z",
+              "end": "2025-02-27T03:53:26.090Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740625182,
+              "duration": 3223,
+              "timeEnd": "3.53am",
+              "timeStart": "2.59am",
+              "broadcastEndTimestamp": null,
+              "time": "2.59am - 3.53am"
+            },
+            "next": {
+              "titleId": "ygb1gv4",
+              "prodId": "19dqbw2",
+              "productionId": "ygb1gv4",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Lingo",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 4,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Playing against each other in this episode are best friends Lucy and Charlotte, quiz fan couple Charlotte and Laura, and mother and son Heather and Matthew.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Lingo",
+              "detailedDisplayTitle": "S1,E4",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:53:26.090Z",
+              "end": "2025-02-27T04:47:55.010Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740628406,
+              "duration": 3268,
+              "timeEnd": "4.47am",
+              "timeStart": "3.53am",
+              "broadcastEndTimestamp": null,
+              "time": "3.53am - 4.47am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST5",
+          "editorialId": "7K7uazyIdnGcUGvBYeZaTB",
+          "channelType": "fast",
+          "name": "Reality 24/7",
+          "slug": "fast5",
+          "isKidsChannel": false,
+          "channelDescription": "Indulge in non-stop reality TV from Real Housewives to Ibiza Weekender \u0026 more!",
+          "channelTitle": "Reality 24/7",
+          "id": "fast5",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST5",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/4gkGUtvu6GjpvWPC7BfhLW/cfbf1f1d7d9387391c98d196a0ee0c94/Logo-Square-500x500.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "h9x1dqd",
+              "prodId": "mtr20vx",
+              "productionId": "h9x1dqd",
+              "contentEntityType": "episode",
+              "title": "The Smell of Success",
+              "brandTitle": "The Real Housewives of Cheshire",
+              "guidance": "Contains some strong language.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 8,
+              "seriesNumber": 4,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Misse is heartbroken as news of her separation spreads. Ampika hears what Dawn said about her in Barcelona. Lauren launches her perfume.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Real Housewives of Cheshire",
+              "detailedDisplayTitle": "S4,E8 The Smell of Success",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:57:28Z",
+              "end": "2025-02-27T03:51:06.040Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740625048,
+              "duration": 3218,
+              "timeEnd": "3.51am",
+              "timeStart": "2.57am",
+              "broadcastEndTimestamp": null,
+              "time": "2.57am - 3.51am"
+            },
+            "next": {
+              "titleId": "fw0t1p9",
+              "prodId": "5h5z8nn",
+              "productionId": "fw0t1p9",
+              "contentEntityType": "episode",
+              "title": "Plastic Fantastic",
+              "brandTitle": "The Real Housewives of Cheshire",
+              "guidance": "Contains some strong language.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 9,
+              "seriesNumber": 4,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "It is the day of Dawn's grand opening - will the clinic be ready in time? Lauren hears what Seema and Stacey said about her perfume launch.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Real Housewives of Cheshire",
+              "detailedDisplayTitle": "S4,E9 Plastic Fantastic",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:51:06.040Z",
+              "end": "2025-02-27T04:44:21.800Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740628266,
+              "duration": 3195,
+              "timeEnd": "4.44am",
+              "timeStart": "3.51am",
+              "broadcastEndTimestamp": null,
+              "time": "3.51am - 4.44am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST16",
+          "editorialId": "2u0jBCHWZOEPcux4QXcgBf",
+          "channelType": "fast",
+          "name": "Comedy 24/7",
+          "slug": "fast16",
+          "isKidsChannel": false,
+          "channelDescription": "Stream brand new and classic sitcoms and stand-up on the Comedy 24/7 channel on ITVX",
+          "channelTitle": "Comedy 24/7 Channel",
+          "id": "fast16",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST16",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/66tVUUclfX9UVBgWvqDY8G/3b0fc332b177bd519f1d4abe60956937/comedy24-7.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "f241qt3",
+              "prodId": "kh99hg9",
+              "productionId": "f241qt3",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Celebrity Juice",
+              "guidance": "With strong language, adult humour and sexual references.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 7,
+              "seriesNumber": 26,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Keith Lemon, Laura Whitmore and Emily Atack are joined by boxing legend Chris Eubank, singer Megan McKenna, music producer and DJ Majestic and TV personality Jamie Laing.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Celebrity Juice",
+              "detailedDisplayTitle": "S26,E7",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:25:21.170Z",
+              "end": "2025-02-27T04:04:59.130Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740626721,
+              "duration": 2377,
+              "timeEnd": "4.04am",
+              "timeStart": "3.25am",
+              "broadcastEndTimestamp": null,
+              "time": "3.25am - 4.04am"
+            },
+            "next": {
+              "titleId": "h850yly",
+              "prodId": "f0pd34z",
+              "productionId": "h850yly",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "Celebrity Juice",
+              "guidance": "Contains strong language, adult humour, sexual references and nudity.",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 8,
+              "seriesNumber": 26,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Strictly judge Shirley Ballas, DJ Melvin Odoom, presenter and footballer Chelcee Grimes and Drag Race UK winner The Vivienne join Keith Lemon, Laura Whitmore and Emily Atack.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Celebrity Juice",
+              "detailedDisplayTitle": "S26,E8",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:04:59.130Z",
+              "end": "2025-02-27T04:44:34.570Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740629099,
+              "duration": 2375,
+              "timeEnd": "4.44am",
+              "timeStart": "4.04am",
+              "broadcastEndTimestamp": null,
+              "time": "4.04am - 4.44am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST1",
+          "editorialId": "6YO26NEUY3ejX5wdZ32ziJ",
+          "channelType": "fast",
+          "name": "Oscars 24/7",
+          "slug": "fast1",
+          "isKidsChannel": false,
+          "channelDescription": "Stream Oscar-winning \u0026 Oscar-nominated films - and discover Jonathan Ross' Must Watch movies",
+          "channelTitle": "Oscars 24/7",
+          "id": "fast1",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST1",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2rIJlzijPaEH636hWNS3Cp/06b7aff5090957b04fb3aa714c43d9e0/oscarsfast.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "sp6nqrr",
+              "prodId": "hsyxdz6",
+              "productionId": "sp6nqrr",
+              "contentEntityType": "film",
+              "title": "Bugsy Malone",
+              "brandTitle": null,
+              "guidance": null,
+              "rating": 0,
+              "certification": "U",
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Alan Parker’s BAFTA-winning gangster spoof. New York gang leader Fat Sam has his empire threatened when a rival gang attack his boys - so he calls in Bugsy Malone to help.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Bugsy Malone",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:03:45.120Z",
+              "end": "2025-02-27T04:45:10.720Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740625425,
+              "duration": 6085,
+              "timeEnd": "4.45am",
+              "timeStart": "3.03am",
+              "broadcastEndTimestamp": null,
+              "time": "3.03am - 4.45am"
+            },
+            "next": {
+              "titleId": "4mmbgk4",
+              "prodId": "jj1p078",
+              "productionId": "4mmbgk4",
+              "contentEntityType": "film",
+              "title": "The Boxtrolls",
+              "brandTitle": null,
+              "guidance": null,
+              "rating": 0,
+              "certification": "PG",
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Ben Kingsley and Jared Harris lend their voices to this quirky adventure comedy. An orphan sets out a daring plan to save the lives of his misfit (and pretty mischievous) pals.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Boxtrolls",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:45:10.720Z",
+              "end": "2025-02-27T06:23:41.680Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740631510,
+              "duration": 5910,
+              "timeEnd": "6.23am",
+              "timeStart": "4.45am",
+              "broadcastEndTimestamp": null,
+              "time": "4.45am - 6.23am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST3",
+          "editorialId": "7dSjjgxVeThcz9GXi0VKup",
+          "channelType": "fast",
+          "name": "The Chase",
+          "slug": "fast3",
+          "isKidsChannel": false,
+          "channelDescription": "Catch The Chase round the clock, as four contestants team up to take on the Chaser",
+          "channelTitle": "The Chase Channel",
+          "id": "fast3",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST3",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "xpk62m6",
+              "prodId": "pv7n8b9",
+              "productionId": "xpk62m6",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "The Chase",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 166,
+              "seriesNumber": 14,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Four people who have never met before, Joel from Worthing, Paul from London, Philippa from Boston \u0026 Rebecca from Macclesfield take on the chaser. In a battle of wits, Bradley Walsh guides the contestants through the show to win some money.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Chase",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:21:16.650Z",
+              "end": "2025-02-27T04:15:34.730Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740626476,
+              "duration": 3258,
+              "timeEnd": "4.15am",
+              "timeStart": "3.21am",
+              "broadcastEndTimestamp": null,
+              "time": "3.21am - 4.15am"
+            },
+            "next": {
+              "titleId": "xqkr4j1",
+              "prodId": "c3kkpcf",
+              "productionId": "xqkr4j1",
+              "contentEntityType": "episode",
+              "title": null,
+              "brandTitle": "The Chase",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 167,
+              "seriesNumber": 14,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Bradley Walsh hosts as, Amy from Cambridgeshire, John from Kent, Claire from Surrey \u0026 Stephen from Midlothian come together in the hope that they can take on The Chaser and leave with thousands of pounds. But who will they be in battle against?",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "The Chase",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:15:34.730Z",
+              "end": "2025-02-27T05:09:56.850Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740629734,
+              "duration": 3262,
+              "timeEnd": "5.09am",
+              "timeStart": "4.15am",
+              "broadcastEndTimestamp": null,
+              "time": "4.15am - 5.09am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST7",
+          "editorialId": "3Ws4xlQs85xBvnXV1Kn4Gb",
+          "channelType": "fast",
+          "name": "ITVSigned",
+          "slug": "fast7",
+          "isKidsChannel": false,
+          "channelDescription": "BSL channel dedicated to visually signed versions of ITV shows from classic drama to brand new entertainment",
+          "channelTitle": "ITV Signed Channel",
+          "id": "fast7",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST7",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "k8pfg8t",
+              "prodId": "q0qmb40",
+              "productionId": "k8pfg8t",
+              "contentEntityType": "special",
+              "title": "Sherlock Holmes: The Hound of the Baskervilles",
+              "brandTitle": "Sherlock Holmes",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Feature-length mystery. The famous sleuth investigates the mysterious death of Sir Charles Baskerville - is it due to a curse that stalks the Baskerville family?",
+              "britishSignLanguage": true,
+              "hasSubtitles": false,
+              "displayTitle": "Sherlock Holmes",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:36:43.360Z",
+              "end": "2025-02-27T04:17:42.400Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740623803,
+              "duration": 6059,
+              "timeEnd": "4.17am",
+              "timeStart": "2.36am",
+              "broadcastEndTimestamp": null,
+              "time": "2.36am - 4.17am"
+            },
+            "next": {
+              "titleId": "r7jbp62",
+              "prodId": "hsrwkr6",
+              "productionId": "r7jbp62",
+              "contentEntityType": "special",
+              "title": "Sherlock Holmes - The Master Blackmailer",
+              "brandTitle": "Sherlock Holmes",
+              "guidance": null,
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": null,
+              "seriesNumber": null,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Sherlock \u0026 Dr Watson face one of the most evil villains yet in this tale of blackmail \u0026 deceit. An unrepentant rogue who made his fortune extorting the rich \u0026 famous forces Sherlock to employ his own underhanded techniques.",
+              "britishSignLanguage": true,
+              "hasSubtitles": false,
+              "displayTitle": "Sherlock Holmes",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:17:42.400Z",
+              "end": "2025-02-27T05:59:51.560Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740629862,
+              "duration": 6129,
+              "timeEnd": "5.59am",
+              "timeStart": "4.17am",
+              "broadcastEndTimestamp": null,
+              "time": "4.17am - 5.59am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST20",
+          "editorialId": "tWEUacGnF2kMxZAT3F1VS",
+          "channelType": "fast",
+          "name": "GoUSA TV",
+          "slug": "fast20",
+          "isKidsChannel": false,
+          "channelDescription": "Stream shows that take you on a trip around America - outdoor adventures, road trips, foodie hot spots, and must-see places.",
+          "channelTitle": "GoUSA Channel",
+          "id": "fast20",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST20",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2CCISYx0iSXwUtJK9ZA6kU/f860f681f0646c2e761702f948a3732a/gousasquare.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "v0kr9q9",
+              "prodId": "lm1q479",
+              "productionId": "v0kr9q9",
+              "contentEntityType": "episode",
+              "title": "NYC: Outer Boroughs",
+              "brandTitle": "Anthony Bourdain: No Reservations",
+              "guidance": "With strong language \u0026 flashing images ",
+              "rating": 16,
+              "certification": null,
+              "episodeNumber": 27,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Tony Bourdain enlists some locals to help him explore NYC's five boroughs.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Anthony Bourdain: No Reservations",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:57:20.120Z",
+              "end": "2025-02-27T03:40:37.120Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740625040,
+              "duration": 2597,
+              "timeEnd": "3.40am",
+              "timeStart": "2.57am",
+              "broadcastEndTimestamp": null,
+              "time": "2.57am - 3.40am"
+            },
+            "next": {
+              "titleId": "xy1z4n9",
+              "prodId": "2dvypsy",
+              "productionId": "xy1z4n9",
+              "contentEntityType": "episode",
+              "title": "Los Angeles to Las Vegas",
+              "brandTitle": "Take a Seat: Sharing a Ride Across America",
+              "guidance": null,
+              "rating": null,
+              "certification": null,
+              "episodeNumber": 1,
+              "seriesNumber": 1,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Dominic embarks on the first leg of the journey from Santa Monica Pier to Las Vegas.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Take a Seat: Sharing a Ride Across America",
+              "detailedDisplayTitle": null,
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T03:40:37.120Z",
+              "end": "2025-02-27T04:02:51.320Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740627637,
+              "duration": 1334,
+              "timeEnd": "4.02am",
+              "timeStart": "3.40am",
+              "broadcastEndTimestamp": null,
+              "time": "3.40am - 4.02am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST2",
+          "editorialId": "3RxJ2bsh9UMwHS2gqGB24M",
+          "channelType": "fast",
+          "name": "Vera",
+          "slug": "fast2",
+          "isKidsChannel": false,
+          "channelDescription": "DCI Vera Stanhope investigates grisly murders with her usual wit, guile and courage in back-to-back episodes",
+          "channelTitle": "Vera Channel",
+          "id": "fast2",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST2",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "yhv318g",
+              "prodId": "qjkyb9k",
+              "productionId": "yhv318g",
+              "contentEntityType": "episode",
+              "title": "On Harbour Street",
+              "brandTitle": "Vera",
+              "guidance": "Contains moderate language and some violent scenes.",
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 1,
+              "seriesNumber": 4,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Investigating a mysterious death, DCI Vera Stanhope finds herself in a quiet coastal town with clues that keep revolving around one street.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Vera",
+              "detailedDisplayTitle": "S4,E1 On Harbour Street",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:20:00.220Z",
+              "end": "2025-02-27T04:05:04.660Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740622800,
+              "duration": 6304,
+              "timeEnd": "4.05am",
+              "timeStart": "2.20am",
+              "broadcastEndTimestamp": null,
+              "time": "2.20am - 4.05am"
+            },
+            "next": {
+              "titleId": "5m46rhr",
+              "prodId": "sxp398s",
+              "productionId": "5m46rhr",
+              "contentEntityType": "episode",
+              "title": "Protected",
+              "brandTitle": "Vera",
+              "guidance": "Contains violence, crime scene gore and some moderate language.",
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 2,
+              "seriesNumber": 4,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Vera unearths a 30-year-old mystery, when the son of a prominent local family is found brutally murdered on the sands of a seaside resort.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Vera",
+              "detailedDisplayTitle": "S4,E2 Protected",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:05:04.660Z",
+              "end": "2025-02-27T05:49:46.380Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740629104,
+              "duration": 6281,
+              "timeEnd": "5.49am",
+              "timeStart": "4.05am",
+              "broadcastEndTimestamp": null,
+              "time": "4.05am - 5.49am"
+            }
+          }
+        }, {
+          "fastPipeId": "FAST12",
+          "editorialId": "V2s4GNed9iExy7jX1sclC",
+          "channelType": "fast",
+          "name": "Midsomer Murders",
+          "slug": "fast12",
+          "isKidsChannel": false,
+          "channelDescription": "Inspector Barnaby investigates the murder mysteries of middle England. Stream 24/7 on ITVX",
+          "channelTitle": "Midsomer Murders Channel",
+          "id": "fast12",
+          "playlistUrl": "https://simulcast.itv.com/playlist/itvonline/FAST12",
+          "images": {
+            "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png?w={width}\u0026h={height}\u0026q={quality}\u0026fm={image_format}"
+          },
+          "slots": {
+            "now": {
+              "titleId": "k22tsrg",
+              "prodId": "zxmgs0s",
+              "productionId": "k22tsrg",
+              "contentEntityType": "episode",
+              "title": "Death and the Divas",
+              "brandTitle": "Midsomer Murders",
+              "guidance": "Contains some violence.",
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 4,
+              "seriesNumber": 15,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "When the famous sister of a local actress returns after 40 years, a series of killings escalate, each of them reminiscent of a movie plot.",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Midsomer Murders",
+              "detailedDisplayTitle": "S15,E4 Death and the Divas",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T02:24:38.520Z",
+              "end": "2025-02-27T04:09:34.480Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740623078,
+              "duration": 6295,
+              "timeEnd": "4.09am",
+              "timeStart": "2.24am",
+              "broadcastEndTimestamp": null,
+              "time": "2.24am - 4.09am"
+            },
+            "next": {
+              "titleId": "94wrq4p",
+              "prodId": "rzkwqch",
+              "productionId": "94wrq4p",
+              "contentEntityType": "episode",
+              "title": "The Sicilian Defence",
+              "brandTitle": "Midsomer Murders",
+              "guidance": "Contains some violence.",
+              "rating": 0,
+              "certification": null,
+              "episodeNumber": 5,
+              "seriesNumber": 15,
+              "startAgainVod": null,
+              "startAgainPlaylistUrl": null,
+              "shortSynopsis": "Could the attack which left Harriet Farmer for dead a year ago be linked to moves on a chess board? And where is her boyfriend Finn? ",
+              "britishSignLanguage": false,
+              "hasSubtitles": false,
+              "displayTitle": "Midsomer Murders",
+              "detailedDisplayTitle": "S15,E5 The Sicilian Defence",
+              "isLive": false,
+              "liveEventStatus": null,
+              "start": "2025-02-27T04:09:34.480Z",
+              "end": "2025-02-27T05:54:35.560Z",
+              "broadcastAt": null,
+              "broadcastStartTimestamp": null,
+              "timestamp": 1740629374,
+              "duration": 6301,
+              "timeEnd": "5.54am",
+              "timeStart": "4.09am",
+              "broadcastEndTimestamp": null,
+              "time": "4.09am - 5.54am"
+            }
+          }
+        }],
+        "channelSlug": null,
+        "watchFromStart": false,
+        "watchFromStartResumeTime": 0,
+        "navAdServerParams": {
+          "area": "livetv",
+          "channel": "itv1"
+        },
+        "isFullWindow": false
+      },
+      "config": {
+        "baseUrl": "",
+        "canonicalUrl": "https://www.itv.com",
+        "imagesUrl": "https://assets.fe.itv.com",
+        "playerBaseUrl": "https://player-stable-endpoint.{env}.mp.itv.com/dotcom/",
+        "pesServerUrl": "https://secure.pes.itv.com/1.1.3/event",
+        "playerFilename": {
+          "desktop": "desktop",
+          "mobile": "mobile"
+        },
+        "services": {
+          "promoted": "https://promoted.hubsvc.itv.com",
+          "contentInventory": "https://content-inventory.prd.oasvc.itv.com",
+          "content": "https://content.prd.user.itv.com",
+          "myList": "https://my-list.prd.user.itv.com",
+          "recommendations": "https://recommendations.prd.user.itv.com",
+          "scheduled": "https://scheduled.oasvc.itv.com",
+          "thalia": "https://thalia.prd.fe.itv.com"
+        },
+        "features": {
+          "amplitude": true,
+          "userServices": true,
+          "premium": true,
+          "britbox": false,
+          "myList": true,
+          "continueWatching": true,
+          "becauseYouWatched": true,
+          "newsShortForm": true,
+          "regionalNewsSignIn": true,
+          "sportShortFormHomepage": false,
+          "communicationSettings": true,
+          "homepageSponsorship": true,
+          "recommendedForYou": true,
+          "freeTrialCardCheck": true,
+          "regionalisation": true,
+          "cassieCookiesManagement": true,
+          "premiumDiscounts": true,
+          "playerUpsellButton": true,
+          "mostPopular": true,
+          "emailVerification": false,
+          "livePagePollingInterval": "900001",
+          "playerStartAgain": true,
+          "searchLinear": true,
+          "simCastEnabled": true,
+          "vodCastEnabled": true,
+          "convivaTrackingEnabled": true,
+          "convivaAppInsights": false,
+          "svodExperience": true,
+          "profilesManagement": true,
+          "cckEnabled": true,
+          "switchProfilesManagement": true,
+          "securityBugcrowdSubmissionsForm": true,
+          "collectionHeroSlides": true,
+          "enableFASTRailOnTVGuide": true,
+          "newTvGuideBackend": true,
+          "enhancedCategories": true,
+          "impactPremiumTracking": true,
+          "newsHomepageHero": true,
+          "newsCategoryHomepageRail": true,
+          "sportShortFormCategoryPage": true,
+          "kindredPromotions": {
+            "visible": true,
+            "showTo": ["avod", "svod"]
+          },
+          "emailVerificationUiEnabled": false,
+          "adServedCollections": true,
+          "browserHomepageHeroStyleRefinement202501": true,
+          "preTxJourney": {
+            "enabled": true,
+            "programmes": [{
+              "seo": {
+                "description": "Ready for more drama, more rivalry and more shocking twists? Join hosts AJ Odudu and Will Best as they welcome a fresh batch of celebs into the 2025 Celebrity Big Brother house.",
+                "title": "Celebrity Big Brother"
+              },
+              "heroCta": {
+                "text": "CATCH UP ON SERIES 1",
+                "url": {
+                  "browser": "/watch/celebrity-big-brother/10a5342",
+                  "ctv": "/categories/entertainment"
+                }
+              },
+              "titleSlug": "celebrity-big-brother",
+              "contentInfo": ["Entertainment \u0026 Reality", "Celebrity", "Series 2"],
+              "backgroundImageUrl": "https://images.ctfassets.net/bd5zurrrnk1g/5qxfA7VC1A2KjvXJs9Zt42/a992f370172c80742d4859abe6936c2e/CBB_01_Hero_DesktopCTV_NoLogo_2560x1440.jpg",
+              "isPaid": false,
+              "description": "Ready for more drama, more rivalry and more shocking twists? Join hosts \u003cstrong\u003eAJ Odudu\u003c/strong\u003e and \u003cstrong\u003eWill Best\u003c/strong\u003e as they welcome a fresh batch of \u003cstrong\u003ecelebs\u003c/strong\u003e into the \u003cstrong\u003e2025 Celebrity Big Brother house\u003c/strong\u003e.",
+              "ccid": "9mm0f1p",
+              "subTags": ["Big Brother", "Housemates", "Diary Room", "Evictions"],
+              "genres": [{
+                "name": "Entertainment \u0026 Reality",
+                "id": "ENTERTAINMENT"
+              }],
+              "title": "Celebrity Big Brother",
+              "strapline": null,
+              "titleLogo": "https://images.ctfassets.net/bd5zurrrnk1g/2LQLSv941kvVW4JxjKb22E/e3d382cf8c317516407860f7a39ee704/CelebrityBigBrother2025_09_TitleLogo.png",
+              "isLiveEvent": false,
+              "brandLegacyId": "10/5342"
+            }, {
+              "genres": [{
+                "name": "DRAMA",
+                "id": "DRAMA_AND_SOAPS"
+              }],
+              "seo": {
+                "title": "Protection",
+                "description": "Fatal failings, lives shattered - gripping new drama with Siobhan Finneran. When a family under witness protection is murdered, DI Liz Nyles must untangle a web of corruption."
+              },
+              "strapline": null,
+              "brandLegacyId": "10/4495",
+              "titleSlug": "protection",
+              "isPaid": false,
+              "title": "Protection",
+              "subTags": ["Suspense", "Detective", "Conspiracy", "Katherine Kelly"],
+              "description": "Fatal failings, lives shattered - gripping \u003cstrong\u003enew drama\u003c/strong\u003e with \u003cstrong\u003eSiobhan Finneran\u003c/strong\u003e. When a family under witness protection is murdered, DI Liz Nyles must untangle a \u003cstrong\u003eweb of corruption\u003c/strong\u003e.",
+              "titleLogo": "https://images.ctfassets.net/bd5zurrrnk1g/1rQvdtnWcP51Z6XIawsBlP/66da19143a8d2334ded7e10ac8d94531/Protection_SER_1kcx59m_09_TitleLogo.png",
+              "ccid": "fmtbnd1",
+              "backgroundImageUrl": "https://images.ctfassets.net/bd5zurrrnk1g/6Nn7ikrn7U0LS5TepIzm0j/e4c00973a8aa6538ce75fdea825279ed/Protection_SER_1kcx59m_06_RailPromoLandscape_NoLogo_1920x1080.jpg",
+              "contentInfo": ["DRAMA", "CRIME \u0026 THRILLER", "LIMITED SERIES"],
+              "heroCta": {
+                "text": "VIEW MORE DRAMA",
+                "url": {
+                  "browser": "/watch/categories/drama-soaps",
+                  "ctv": "/categories/drama-soaps"
+                }
+              },
+              "isLiveEvent": false
+            }]
+          },
+          "adsOnPause": true,
+          "amazonInAppPurchase": false,
+          "amazonPromoOfferRedeemBy": "",
+          "androidTvIapWrapperVersion": 0,
+          "androidTvInAppPurchase": false,
+          "androidTvSubscriptionSalt": [],
+          "appLoadSignIn": false,
+          "blackFriday": {
+            "enabled": true,
+            "options": {
+              "content": {
+                "footerLegal": "*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays\u003cbr\u003ewith ads. †You can cancel at any time before your first or next billing date to avoid future charges.\u003cbr\u003e‡Offer runs between 12:00pm on 18/11/2024 and 11:59pm on 09/12/2024. Excludes existing ITVX PREMIUM subscribers. This offer will\u003cbr\u003eentitle you to 2 months access to ITVX PREMIUM for the reduced price of £{{discountedMonthly}}/month. Your subscription will auto-renew. We will charge your\u003cbr\u003epayment method at the reduced rate for 2 months and then at the standard price (currently £{{monthly}}) on a monthly basis until you cancel. Any\u003cbr\u003enew ITVX PREMIUM subscriber will also benefit from a one-time 7 day free trial, with the subscription beginning at the end of the trial. You\u003cbr\u003ecan cancel at any time before your first or next billing date to avoid future charges. 16+. Not available to redeem via Google Pay on Google\u003cbr\u003eTV. One use per person. UK, Channel Islands and Isle of Man only. Not valid with any other offer. ITV reserves the right to change or cancel\u003cbr\u003ethis offer at any time. ITVX Terms of Use and Privacy \u0026 Cookie Information (\u003cbrand\u003ewww.itv.com/terms/streaming\u003c/brand\u003e and \u003cbrand\u003ewww.itv.com/privacy\u003c/brand\u003e) will\u003cbr\u003eapply.\u003cbr\u003e\u003cbr\u003e© ITV Consumer Limited 2024",
+                "heroButton_noTrial": "GO PREMIUM",
+                "benefit_3": "Cancel anytime†",
+                "footerButton_noTrial": "GO PREMIUM",
+                "subtitle": "GO PREMIUM FOR £{{discountedMonthly}} A MONTH FOR THE FIRST 2\u003cbr\u003eMONTHS",
+                "heroButton": "START YOUR FREE TRIAL",
+                "benefit_2": "Watch ad-free*",
+                "title": "\u003cbrand_bold\u003eBLACK FRIDAY OFFER\u003c/brand_bold\u003e\u003cbr\u003e£{{discountedMonthly}} A MONTH‡",
+                "footerButton": "START YOUR FREE TRIAL",
+                "footerLegal_nowTV": "*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays\u003cbr\u003ewith ads. †You can cancel at any time before your first or next billing date to avoid future charges.\u003cbr\u003e‡Offer runs between 12:00pm on 18/11/2024 and 11:59pm on 09/12/2024. Excludes existing ITVX PREMIUM subscribers. Use of the voucher\u003cbr\u003ecode will entitle you to 2 months access to ITVX PREMIUM for the reduced price of £{{discountedMonthly}}/month. Your subscription will auto-renew. We will\u003cbr\u003echarge your payment method at the reduced rate for 2 months and then at the standard price (currently £{{monthly}}) on a monthly basis until you\u003cbr\u003ecancel. Any new ITVX PREMIUM subscriber will also benefit from a one-time 7 day free trial, with the subscription beginning at the end of\u003cbr\u003ethe trial. You can cancel at any time before your first or next billing date to avoid future charges. 16+. Not available to redeem via Google Pay\u003cbr\u003eon Google TV. One use per person. UK, Channel Islands and Isle of Man only. Not valid with any other offer. ITV reserves the right to change\u003cbr\u003eor cancel this offer at any time. ITVX Terms of Use and Privacy \u0026 Cookie Information (\u003cbrand\u003ewww.itv.com/terms/streaming\u003c/brand\u003e and \u003cbrand\u003ewww.itv.com/\u003cbr\u003eprivacy\u003c/brand\u003e) will apply.\u003cbr\u003e\u003cbr\u003e© ITV Consumer Limited 2024",
+                "benefit_1": "100s more hit films and shows",
+                "benefit_4": "Download on the go",
+                "heroButtonLegal": "then £{{discountedMonthly}} a month for 2 months followed by £{{monthly}}/month‡",
+                "benefitsLegal": "‡Ends 11:59pm 09/12/24. Excludes existing ITVX PREMIUM subscribers. £{{discountedMonthly}}/month for 2 months then auto-renews at £{{monthly}}/month. Full T\u0026Cs below.\u003cbr\u003e*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays with ads. †You can cancel at any time before your first or next billing date to avoid future charges.",
+                "footerLegalText": "‡New customer offer until 11:59pm 09/12/24. Auto-renews: £{{discountedMonthly}}/month for 2 months then £{{monthly}}/month. Offer T\u0026Cs at\u003cbr\u003e\u003cbrand\u003ehttps://www.itv.com/watch/user/itvx-premium\u003c/brand\u003e\u003cbr\u003e*Ad-free applies to our on demand library only and programmes may contain ITV promotions where contractually required. Live TV plays with ads.\u003cbr\u003e†You can cancel at any time before your first or next billing date to avoid future charges."
+              },
+              "end_ts": 1733788740000,
+              "start_ts": 1731931200000
+            }
+          },
+          "britboxUserSignin": true,
+          "cassieBaseUrl": "",
+          "chartbeat": true,
+          "contentPartnerAttribution": true,
+          "contentSquare": true,
+          "cookieConsentManagement": false,
+          "cptUrl": "https://cpt.itv.com/0.0.4/event",
+          "ctvDevUrlMapping": "",
+          "customUrlLauncher": false,
+          "dPadTrickPlay": false,
+          "dar": false,
+          "disablePremiumFreeTrial": false,
+          "disablePremiumFreeTrialNowTV": false,
+          "dobCapture": true,
+          "dynamicQrCodePinPairing": false,
+          "eDrm": false,
+          "enableEpgInfiniteScroll": true,
+          "enableGTM": true,
+          "enablePlayerError3016": false,
+          "enabledPlayerErrors": [],
+          "enquiryAd": false,
+          "epgCustomCtaList": {},
+          "exclusive-live-channel-type": "simulcast-fast",
+          "externalContinueWatching": false,
+          "externalMyList": false,
+          "freeviewPlayerEngine": false,
+          "ga4": {
+            "enabled": true,
+            "strategy": "client"
+          },
+          "gtm-server-container": {
+            "serverPreviewToken": "",
+            "serverUrl": "https://server-side-tagging-jxotrb4oja-uc.a.run.app/events"
+          },
+          "homepageHeroExperience": false,
+          "itvUserStorageParity": false,
+          "linearServiceCookies": false,
+          "microSkip": false,
+          "networkLogin": false,
+          "newsCategoryHero": true,
+          "newsElectionScoreboard": {
+            "enabled": false
+          },
+          "newsLatestClipsFeed": true,
+          "newsSiteAds": true,
+          "nextjsNativeRouting": false,
+          "nowtvWidevine": true,
+          "oneClickUnsubscribe": true,
+          "onwardJourneyExperience": false,
+          "persoSectionExperimentKey": "",
+          "pesUrl": "https://secure.pes.itv.com/1.1.3/event",
+          "playbackParentalChecks": true,
+          "postcodeCapture": false,
+          "programmePageEpisodeSlider": false,
+          "regionalNews": true,
+          "regionalSimulcast": false,
+          "removeCitvFromEpg": false,
+          "restartInVodPlayer": false,
+          "restartOnProgrammePage": false,
+          "rokuContinueWatching": true,
+          "search": true,
+          "searchExperience": true,
+          "signedBSL": true,
+          "skipIntro": false,
+          "sportShortForm": true,
+          "subnavCcid": true,
+          "subscribeWithoutSignIn": true,
+          "test-for-docs": false,
+          "theo-player-rollout": 0,
+          "top10TileType": "numbered",
+          "tvGuide": true,
+          "tvGuideModal": false,
+          "videoDar": {
+            "options": {
+              "channelList": {
+                "FAST16": "FAST16",
+                "FAST1": "FAST1",
+                "FAST2": "FAST2",
+                "FAST13": "FAST13",
+                "FAST7": "FAST7",
+                "FAST12": "FAST12",
+                "FAST4": "FAST4",
+                "FAST15": "FAST15",
+                "FAST3": "FAST3",
+                "FAST5": "FAST5",
+                "FAST18": "FAST18",
+                "FAST6": "FAST6"
+              }
+            },
+            "enabled": false
+          }
+        },
+        "analytics": {
+          "gtm": "GTM-MXQXBVC",
+          "cpt": {
+            "url": "https://cpt.itv.com/0.0.4/event"
+          },
+          "webVitals": {
+            "url": "https://http-inputs-itv.splunkcloud.com/services/collector"
+          },
+          "convivaAppInsightsCustomerKey": "822d428ad6a0a99e585ae79b04746ccfc541cad1",
+          "conviva": {
+            "test": {
+              "customerKey": "614f017665482d18dee1e746f4ad7140a2ca4eaa"
+            },
+            "prod": {
+              "customerKey": "822d428ad6a0a99e585ae79b04746ccfc541cad1"
+            }
+          }
+        },
+        "amplitudeDeployKey": "client-YKVVRsZUOnAPVh7Dr53rQokD5B7d0ko5",
+        "stripe": {
+          "publicKey": "pk_live_vbaeHtOKe3k0UNTPfpkiHhZv"
+        },
+        "cassieExcludedPaths": "'/terms/articles/cookies'"
+      },
+      "__N_SSP": true
+    },
+    "page": "/watch",
+    "query": {},
+    "buildId": "CqPFoLsLhkFbzSDCHB9Ti",
+    "assetPrefix": "/hades-assets",
+    "runtimeConfig": {
+      "version": "2.325.3"
+    },
+    "isFallback": false,
+    "gssp": true,
+    "appGip": true,
+    "scriptLoader": []
+  }
+</script>
+
+notes:
+======
+{
+  const json = document.querySelector('script#__NEXT_DATA__').textContent
+  const data = JSON.parse(json)
+  const channels = data.props.pageProps.channels
+
+  console.log(channels.length)
+  // 17
+}
+
+-------------------------------------------------------------------------------- after login:
+
+https://www.itv.com/watch?channel=itv
+
+request #1:
+===========
+
+curl 'https://nownext.oasvc.itv.com/channels' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site'
+
+response #1:
+============
+
+{
+  "channels": [{
+    "id": "ITV",
+    "editorialId": "30w3x3K5q7jKPhdjw28DBU",
+    "fastPipeId": null,
+    "channelType": "simulcast",
+    "name": "ITV1",
+    "slug": "itv",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/ITV",
+    "slots": {
+      "now": {
+        "titleId": "f94xd17",
+        "prodId": "5kgknq4",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:50:00Z",
+        "end": "2025-02-27T05:05:00Z",
+        "title": null,
+        "brandTitle": "Unwind With ITV1",
+        "displayTitle": "Unwind With ITV1",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T03:52:06Z",
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 127,
+        "seriesNumber": 4,
+        "startAgainVod": null,
+        "startAgainSimulcast": "https://simulcast.itv.com/playlist/itvonline/itv",
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "phjc413",
+        "prodId": "fxkl48r",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T05:05:00Z",
+        "end": "2025-02-27T06:00:00Z",
+        "title": null,
+        "brandTitle": "Wheel Of Fortune",
+        "displayTitle": "Wheel Of Fortune",
+        "detailedDisplayTitle": "S2,E2",
+        "broadcastAt": "2025-02-27T05:07:28Z",
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 2,
+        "seriesNumber": 2,
+        "startAgainVod": null,
+        "startAgainSimulcast": "https://simulcast.itv.com/playlist/itvonline/itv",
+        "shortSynopsis": "Graham Norton invites nurse Chris, HR advisor Laura and school administrator Samantha to spin the wheel, solve puzzles and avoid bankrupts for a possible £50,000! But is The Wheel in a giving kind of mood?",
+        "britishSignLanguage": true,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/54OefyIkbiHPMJUYApbuUX/7dfe2176762fd8ec10f77cd61a318b07/itv1.png"
+    },
+    "isKidsChannel": false
+  }, {
+    "id": "ITV2",
+    "editorialId": "15AUsvLXPh85rlfQ8KeF3w",
+    "fastPipeId": null,
+    "channelType": "simulcast",
+    "name": "ITV2",
+    "slug": "itv2",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/ITV2",
+    "slots": {
+      "now": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T03:30:00Z",
+        "end": "2025-02-27T04:00:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T03:30:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T04:00:00Z",
+        "end": "2025-02-27T04:30:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T04:00:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/aV9MOsYOMEXHx3iw0p4tk/57b35173231c4290ff199ef8573367ad/itv2.png"
+    },
+    "isKidsChannel": false
+  }, {
+    "id": "FAST15",
+    "fastPipeId": "FAST15",
+    "editorialId": "2XSNGdLMbXlLtP9qIp8yFn",
+    "channelType": "fast",
+    "name": "TOWIE TV",
+    "slug": "fast15",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST15",
+    "slots": {
+      "now": {
+        "titleId": "m2g3bvz",
+        "prodId": "w9bxq33",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:30:46.220Z",
+        "end": "2025-02-27T04:25:00.780Z",
+        "title": null,
+        "brandTitle": "The Only Way is Essex",
+        "displayTitle": "The Only Way is Essex",
+        "detailedDisplayTitle": "S28,E9",
+        "broadcastAt": null,
+        "guidance": "With strong language and adult themes.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 9,
+        "seriesNumber": 28,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Saff wants to return to her carefree self after weeks of drama and extends an olive branch to Amy. Gatsby whisks Dani off on a fun trip to Norfolk, with all of his mates in tow.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "56ybg0s",
+        "prodId": "jzgnhvf",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:25:00.780Z",
+        "end": "2025-02-27T05:19:21.980Z",
+        "title": null,
+        "brandTitle": "The Only Way is Essex",
+        "displayTitle": "The Only Way is Essex",
+        "detailedDisplayTitle": "S28,E10",
+        "broadcastAt": null,
+        "guidance": "With strong language and adult themes.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 10,
+        "seriesNumber": 28,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Gatsby finds out about Courtney's allegation that he was texting girls behind Dani's back. Diags is determined to give his world record attempt another try.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2roGiP2lXYjDk5eqPbJtvs/feb5d0cc11ed601ed342f79429c2ac83/TOWIETV.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "TOWIE Channel - all the break-ups and make-ups from over 20 series of The Only Way Is Essex",
+    "channelTitle": "TOWIE TV Channel"
+  }, {
+    "id": "FAST6",
+    "fastPipeId": "FAST6",
+    "editorialId": "25VFPaeoACnu4pVvb3VrkB",
+    "channelType": "fast",
+    "name": "ITVX Kids",
+    "slug": "fast6",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST6",
+    "slots": {
+      "now": {
+        "titleId": "wm1664z",
+        "prodId": "ywn4q8n",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:56:51.760Z",
+        "end": "2025-02-27T04:03:56.320Z",
+        "title": "Taco Tuesday/The Race/Picture Day",
+        "brandTitle": "Deep in the Bowl",
+        "displayTitle": "Deep in the Bowl",
+        "detailedDisplayTitle": "S1,E6 Taco Tuesday/The Race/Picture Day",
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 6,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Tuesday is taco day at the Wilsons! In the goldfish world, we're desperately looking for the toilet. 1,2,3... Smile! It's class picture time at school.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "ytds7zw",
+        "prodId": "jly3lzx",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:03:56.320Z",
+        "end": "2025-02-27T04:10:58.840Z",
+        "title": "Flat Pack/The Sinking/Snow Day",
+        "brandTitle": "Deep in the Bowl",
+        "displayTitle": "Deep in the Bowl",
+        "detailedDisplayTitle": "S1,E7 Flat Pack/The Sinking/Snow Day",
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 7,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Leely learns a new escape technique and Meg reveals her yo-yo skills. Not far away, Captain Al and his sailors try to get away.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/7cQcK18rZ9ssKtDsoDP47S/5fe8943093162cab6ff0e4caa063a089/ITVXKids.png"
+    },
+    "isKidsChannel": true,
+    "channelDescription": "Stream cartoons, movies and live action shows for kids - 24/7 on ITVX!",
+    "channelTitle": "ITVX Kids Channel"
+  }, {
+    "id": "ITVBe",
+    "editorialId": "1mhNiPhBFHWr3cUAIXC2Gv",
+    "fastPipeId": null,
+    "channelType": "simulcast",
+    "name": "ITVBe",
+    "slug": "itvbe",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/ITVBe",
+    "slots": {
+      "now": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T03:30:00Z",
+        "end": "2025-02-27T04:00:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T03:30:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T04:00:00Z",
+        "end": "2025-02-27T04:30:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T04:00:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/6Mul5JVrb06pRu8bNDgIAe/b5309fa32322cc3db398d25e523e2b2e/itvBe.png"
+    },
+    "isKidsChannel": false
+  }, {
+    "id": "ITV3",
+    "editorialId": "1hpOJGarPkaAhT281HYac2",
+    "fastPipeId": null,
+    "channelType": "simulcast",
+    "name": "ITV3",
+    "slug": "itv3",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/ITV3",
+    "slots": {
+      "now": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T03:30:00Z",
+        "end": "2025-02-27T04:00:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T03:30:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T04:00:00Z",
+        "end": "2025-02-27T04:30:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T04:00:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/39fJAu9LbUJptatyAs8HkL/80ac6eb141104854b209da946ae7a02f/itv3.png"
+    },
+    "isKidsChannel": false
+  }, {
+    "id": "ITV4",
+    "editorialId": "4twkX9FtnURS4S7FaQ60A8",
+    "fastPipeId": null,
+    "channelType": "simulcast",
+    "name": "ITV4",
+    "slug": "itv4",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/ITV4",
+    "slots": {
+      "now": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T03:30:00Z",
+        "end": "2025-02-27T04:00:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T03:30:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": null,
+        "prodId": null,
+        "contentEntityType": null,
+        "start": "2025-02-27T04:00:00Z",
+        "end": "2025-02-27T04:30:00Z",
+        "title": null,
+        "brandTitle": "Teleshopping",
+        "displayTitle": "Teleshopping",
+        "detailedDisplayTitle": null,
+        "broadcastAt": "2025-02-27T04:00:00Z",
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": null,
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/6Dv76O9mtWd6m7DzIavtsf/b3d491289679b8030eae7b4a7db58f2d/itv4.png"
+    },
+    "isKidsChannel": false
+  }, {
+    "id": "FAST13",
+    "fastPipeId": "FAST13",
+    "editorialId": "5LznV0HcUj5l8VMRusmTfb",
+    "channelType": "fast",
+    "name": "Love Island 24/7",
+    "slug": "fast13",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST13",
+    "slots": {
+      "now": {
+        "titleId": "f8w1xhw",
+        "prodId": "vmxty9v",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:45:52.200Z",
+        "end": "2025-02-27T04:36:21.720Z",
+        "title": null,
+        "brandTitle": "Love Island USA",
+        "displayTitle": "Love Island USA",
+        "detailedDisplayTitle": "S3,E9",
+        "broadcastAt": null,
+        "guidance": "Contains adult conversations",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 9,
+        "seriesNumber": 3,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Tensions rise amongst the Islanders after the previous night's Kissing Booth game. Cinco mulls over his decision between Cashay and Trina, but new Islander Lei-Yen is also turning his head.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "bpgbsvz",
+        "prodId": "tjzsr8q",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:36:21.720Z",
+        "end": "2025-02-27T05:26:31.920Z",
+        "title": null,
+        "brandTitle": "Love Island USA",
+        "displayTitle": "Love Island USA",
+        "detailedDisplayTitle": "S3,E10",
+        "broadcastAt": null,
+        "guidance": "Contains adult conversations.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 10,
+        "seriesNumber": 3,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "The new Islanders choose which boys they want to take out on a date, and at night the Islanders play a steamy game of Unboxed. Meanwhile, Cashay's troubles with Cinco and Trina continue.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/3itg2dJFj2WLT35tUhfA1K/21300c2f53feeb0dbf0113fbe8c67939/LoveIsland.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Stream the Love Island Channel: No grafting required, just escape to the villa with 24/7 Love Island",
+    "channelTitle": "Love Island Channel"
+  }, {
+    "id": "FAST4",
+    "fastPipeId": "FAST4",
+    "editorialId": "1yWl4yQ2BU1PRqENzQqWf8",
+    "channelType": "fast",
+    "name": "Saturday Night Every Night!",
+    "slug": "fast4",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST4",
+    "slots": {
+      "now": {
+        "titleId": "ygb1gv4",
+        "prodId": "19dqbw2",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:53:26.090Z",
+        "end": "2025-02-27T04:47:55.010Z",
+        "title": null,
+        "brandTitle": "Lingo",
+        "displayTitle": "Lingo",
+        "detailedDisplayTitle": "S1,E4",
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 4,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Playing against each other in this episode are best friends Lucy and Charlotte, quiz fan couple Charlotte and Laura, and mother and son Heather and Matthew.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "gg2njy8",
+        "prodId": "4d469w7",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:47:55.010Z",
+        "end": "2025-02-27T05:41:51.250Z",
+        "title": null,
+        "brandTitle": "Lingo",
+        "displayTitle": "Lingo",
+        "detailedDisplayTitle": "S1,E5",
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 5,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Seeking success in this episode are multilingual Lina and her boyfriend Brad from Dartford, competitive mother and daughter Anne and Lily, and East London couple Natalie and Andy.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/5wRnpE9FMaD1EPqyy39iaP/568189f8256184a0230e1f1f9c95a587/SaturdayNightEveryNight.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Get stuck into quizzes, games and talent shows for the ultimate night in on ITVX",
+    "channelTitle": "Saturday Night, Every Night! Channel"
+  }, {
+    "id": "FAST5",
+    "fastPipeId": "FAST5",
+    "editorialId": "7K7uazyIdnGcUGvBYeZaTB",
+    "channelType": "fast",
+    "name": "Reality 24/7",
+    "slug": "fast5",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST5",
+    "slots": {
+      "now": {
+        "titleId": "fw0t1p9",
+        "prodId": "5h5z8nn",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:51:06.040Z",
+        "end": "2025-02-27T04:44:21.800Z",
+        "title": "Plastic Fantastic",
+        "brandTitle": "The Real Housewives of Cheshire",
+        "displayTitle": "The Real Housewives of Cheshire",
+        "detailedDisplayTitle": "S4,E9 Plastic Fantastic",
+        "broadcastAt": null,
+        "guidance": "Contains some strong language.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 9,
+        "seriesNumber": 4,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "It is the day of Dawn's grand opening - will the clinic be ready in time? Lauren hears what Seema and Stacey said about her perfume launch.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "j9rkmxm",
+        "prodId": "xwqbpfc",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:44:21.800Z",
+        "end": "2025-02-27T05:38:02.880Z",
+        "title": "Bollywood or Bust",
+        "brandTitle": "The Real Housewives of Cheshire",
+        "displayTitle": "The Real Housewives of Cheshire",
+        "detailedDisplayTitle": "S4,E10 Bollywood or Bust",
+        "broadcastAt": null,
+        "guidance": "Contains some strong language.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 10,
+        "seriesNumber": 4,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Reality series. Bollywood comes to Cheshire as Seema hosts a 45th birthday extravaganza. Post-birth Tanya has an extreme beauty treatment.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/4gkGUtvu6GjpvWPC7BfhLW/cfbf1f1d7d9387391c98d196a0ee0c94/Logo-Square-500x500.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Indulge in non-stop reality TV from Real Housewives to Ibiza Weekender & more!",
+    "channelTitle": "Reality 24/7"
+  }, {
+    "id": "FAST16",
+    "fastPipeId": "FAST16",
+    "editorialId": "2u0jBCHWZOEPcux4QXcgBf",
+    "channelType": "fast",
+    "name": "Comedy 24/7",
+    "slug": "fast16",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST16",
+    "slots": {
+      "now": {
+        "titleId": "f241qt3",
+        "prodId": "kh99hg9",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:25:21.170Z",
+        "end": "2025-02-27T04:04:59.130Z",
+        "title": null,
+        "brandTitle": "Celebrity Juice",
+        "displayTitle": "Celebrity Juice",
+        "detailedDisplayTitle": "S26,E7",
+        "broadcastAt": null,
+        "guidance": "With strong language, adult humour and sexual references.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 7,
+        "seriesNumber": 26,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Keith Lemon, Laura Whitmore and Emily Atack are joined by boxing legend Chris Eubank, singer Megan McKenna, music producer and DJ Majestic and TV personality Jamie Laing.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "h850yly",
+        "prodId": "f0pd34z",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:04:59.130Z",
+        "end": "2025-02-27T04:44:34.570Z",
+        "title": null,
+        "brandTitle": "Celebrity Juice",
+        "displayTitle": "Celebrity Juice",
+        "detailedDisplayTitle": "S26,E8",
+        "broadcastAt": null,
+        "guidance": "Contains strong language, adult humour, sexual references and nudity.",
+        "rating": 16,
+        "certification": null,
+        "episodeNumber": 8,
+        "seriesNumber": 26,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Strictly judge Shirley Ballas, DJ Melvin Odoom, presenter and footballer Chelcee Grimes and Drag Race UK winner The Vivienne join Keith Lemon, Laura Whitmore and Emily Atack.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/66tVUUclfX9UVBgWvqDY8G/3b0fc332b177bd519f1d4abe60956937/comedy24-7.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Stream brand new and classic sitcoms and stand-up on the Comedy 24/7 channel on ITVX",
+    "channelTitle": "Comedy 24/7 Channel"
+  }, {
+    "id": "FAST1",
+    "fastPipeId": "FAST1",
+    "editorialId": "6YO26NEUY3ejX5wdZ32ziJ",
+    "channelType": "fast",
+    "name": "Oscars 24/7",
+    "slug": "fast1",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST1",
+    "slots": {
+      "now": {
+        "titleId": "sp6nqrr",
+        "prodId": "hsyxdz6",
+        "contentEntityType": "film",
+        "start": "2025-02-27T03:03:45.120Z",
+        "end": "2025-02-27T04:45:10.720Z",
+        "title": "Bugsy Malone",
+        "brandTitle": null,
+        "displayTitle": "Bugsy Malone",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": "U",
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Alan Parker’s BAFTA-winning gangster spoof. New York gang leader Fat Sam has his empire threatened when a rival gang attack his boys - so he calls in Bugsy Malone to help.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "4mmbgk4",
+        "prodId": "jj1p078",
+        "contentEntityType": "film",
+        "start": "2025-02-27T04:45:10.720Z",
+        "end": "2025-02-27T06:23:41.680Z",
+        "title": "The Boxtrolls",
+        "brandTitle": null,
+        "displayTitle": "The Boxtrolls",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": "PG",
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Ben Kingsley and Jared Harris lend their voices to this quirky adventure comedy. An orphan sets out a daring plan to save the lives of his misfit (and pretty mischievous) pals.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2rIJlzijPaEH636hWNS3Cp/06b7aff5090957b04fb3aa714c43d9e0/oscarsfast.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Stream Oscar-winning & Oscar-nominated films - and discover Jonathan Ross' Must Watch movies",
+    "channelTitle": "Oscars 24/7"
+  }, {
+    "id": "FAST3",
+    "fastPipeId": "FAST3",
+    "editorialId": "7dSjjgxVeThcz9GXi0VKup",
+    "channelType": "fast",
+    "name": "The Chase",
+    "slug": "fast3",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST3",
+    "slots": {
+      "now": {
+        "titleId": "xpk62m6",
+        "prodId": "pv7n8b9",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:21:16.650Z",
+        "end": "2025-02-27T04:15:34.730Z",
+        "title": null,
+        "brandTitle": "The Chase",
+        "displayTitle": "The Chase",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 166,
+        "seriesNumber": 14,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Four people who have never met before, Joel from Worthing, Paul from London, Philippa from Boston & Rebecca from Macclesfield take on the chaser. In a battle of wits, Bradley Walsh guides the contestants through the show to win some money.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "xqkr4j1",
+        "prodId": "c3kkpcf",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:15:34.730Z",
+        "end": "2025-02-27T05:09:56.850Z",
+        "title": null,
+        "brandTitle": "The Chase",
+        "displayTitle": "The Chase",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 167,
+        "seriesNumber": 14,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Bradley Walsh hosts as, Amy from Cambridgeshire, John from Kent, Claire from Surrey & Stephen from Midlothian come together in the hope that they can take on The Chaser and leave with thousands of pounds. But who will they be in battle against?",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/1qjkPCSIfR1nYPYcLyKef2/dea8a504e77a4771ae0d07c7cfb8c351/TheChase.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Catch The Chase round the clock, as four contestants team up to take on the Chaser",
+    "channelTitle": "The Chase Channel"
+  }, {
+    "id": "FAST7",
+    "fastPipeId": "FAST7",
+    "editorialId": "3Ws4xlQs85xBvnXV1Kn4Gb",
+    "channelType": "fast",
+    "name": "ITVSigned",
+    "slug": "fast7",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST7",
+    "slots": {
+      "now": {
+        "titleId": "k8pfg8t",
+        "prodId": "q0qmb40",
+        "contentEntityType": "special",
+        "start": "2025-02-27T02:36:43.360Z",
+        "end": "2025-02-27T04:17:42.400Z",
+        "title": "Sherlock Holmes: The Hound of the Baskervilles",
+        "brandTitle": "Sherlock Holmes",
+        "displayTitle": "Sherlock Holmes",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Feature-length mystery. The famous sleuth investigates the mysterious death of Sir Charles Baskerville - is it due to a curse that stalks the Baskerville family?",
+        "britishSignLanguage": true,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "r7jbp62",
+        "prodId": "hsrwkr6",
+        "contentEntityType": "special",
+        "start": "2025-02-27T04:17:42.400Z",
+        "end": "2025-02-27T05:59:51.560Z",
+        "title": "Sherlock Holmes - The Master Blackmailer",
+        "brandTitle": "Sherlock Holmes",
+        "displayTitle": "Sherlock Holmes",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": null,
+        "seriesNumber": null,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Sherlock & Dr Watson face one of the most evil villains yet in this tale of blackmail & deceit. An unrepentant rogue who made his fortune extorting the rich & famous forces Sherlock to employ his own underhanded techniques.",
+        "britishSignLanguage": true,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/5QmuRQKMe5KbCjL970chzL/82f09f0d8896509c7410b1c2bd934fb7/itvSigned__1_.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "BSL channel dedicated to visually signed versions of ITV shows from classic drama to brand new entertainment",
+    "channelTitle": "ITV Signed Channel"
+  }, {
+    "id": "FAST20",
+    "fastPipeId": "FAST20",
+    "editorialId": "tWEUacGnF2kMxZAT3F1VS",
+    "channelType": "fast",
+    "name": "GoUSA TV",
+    "slug": "fast20",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST20",
+    "slots": {
+      "now": {
+        "titleId": "xy1z4n9",
+        "prodId": "2dvypsy",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T03:40:37.120Z",
+        "end": "2025-02-27T04:02:51.320Z",
+        "title": "Los Angeles to Las Vegas",
+        "brandTitle": "Take a Seat: Sharing a Ride Across America",
+        "displayTitle": "Take a Seat: Sharing a Ride Across America",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": null,
+        "rating": null,
+        "certification": null,
+        "episodeNumber": 1,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Dominic embarks on the first leg of the journey from Santa Monica Pier to Las Vegas.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "41gvjwb",
+        "prodId": "jtx6p2t",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:02:51.320Z",
+        "end": "2025-02-27T04:24:05.800Z",
+        "title": "Las Vegas to Salt Lake City",
+        "brandTitle": "Take a Seat: Sharing a Ride Across America",
+        "displayTitle": "Take a Seat: Sharing a Ride Across America",
+        "detailedDisplayTitle": null,
+        "broadcastAt": null,
+        "guidance": "Contains flashing images",
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 2,
+        "seriesNumber": 1,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Carlos, blind since birth, and Dominic cycle through some extreme weather.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2CCISYx0iSXwUtJK9ZA6kU/f860f681f0646c2e761702f948a3732a/gousasquare.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Stream shows that take you on a trip around America - outdoor adventures, road trips, foodie hot spots, and must-see places.",
+    "channelTitle": "GoUSA Channel"
+  }, {
+    "id": "FAST2",
+    "fastPipeId": "FAST2",
+    "editorialId": "3RxJ2bsh9UMwHS2gqGB24M",
+    "channelType": "fast",
+    "name": "Vera",
+    "slug": "fast2",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST2",
+    "slots": {
+      "now": {
+        "titleId": "yhv318g",
+        "prodId": "qjkyb9k",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T02:20:00.220Z",
+        "end": "2025-02-27T04:05:04.660Z",
+        "title": "On Harbour Street",
+        "brandTitle": "Vera",
+        "displayTitle": "Vera",
+        "detailedDisplayTitle": "S4,E1 On Harbour Street",
+        "broadcastAt": null,
+        "guidance": "Contains moderate language and some violent scenes.",
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 1,
+        "seriesNumber": 4,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Investigating a mysterious death, DCI Vera Stanhope finds herself in a quiet coastal town with clues that keep revolving around one street.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "5m46rhr",
+        "prodId": "sxp398s",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:05:04.660Z",
+        "end": "2025-02-27T05:49:46.380Z",
+        "title": "Protected",
+        "brandTitle": "Vera",
+        "displayTitle": "Vera",
+        "detailedDisplayTitle": "S4,E2 Protected",
+        "broadcastAt": null,
+        "guidance": "Contains violence, crime scene gore and some moderate language.",
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 2,
+        "seriesNumber": 4,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Vera unearths a 30-year-old mystery, when the son of a prominent local family is found brutally murdered on the sands of a seaside resort.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/28u2JWDVeus5FJeXDmLFH/1fa4e4cbb57926639cc9fc633aa22cde/Vera.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "DCI Vera Stanhope investigates grisly murders with her usual wit, guile and courage in back-to-back episodes",
+    "channelTitle": "Vera Channel"
+  }, {
+    "id": "FAST12",
+    "fastPipeId": "FAST12",
+    "editorialId": "V2s4GNed9iExy7jX1sclC",
+    "channelType": "fast",
+    "name": "Midsomer Murders",
+    "slug": "fast12",
+    "streamUrl": "https://simulcast.itv.com/playlist/itvonline/FAST12",
+    "slots": {
+      "now": {
+        "titleId": "k22tsrg",
+        "prodId": "zxmgs0s",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T02:24:38.520Z",
+        "end": "2025-02-27T04:09:34.480Z",
+        "title": "Death and the Divas",
+        "brandTitle": "Midsomer Murders",
+        "displayTitle": "Midsomer Murders",
+        "detailedDisplayTitle": "S15,E4 Death and the Divas",
+        "broadcastAt": null,
+        "guidance": "Contains some violence.",
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 4,
+        "seriesNumber": 15,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "When the famous sister of a local actress returns after 40 years, a series of killings escalate, each of them reminiscent of a movie plot.",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      },
+      "next": {
+        "titleId": "94wrq4p",
+        "prodId": "rzkwqch",
+        "contentEntityType": "episode",
+        "start": "2025-02-27T04:09:34.480Z",
+        "end": "2025-02-27T05:54:35.560Z",
+        "title": "The Sicilian Defence",
+        "brandTitle": "Midsomer Murders",
+        "displayTitle": "Midsomer Murders",
+        "detailedDisplayTitle": "S15,E5 The Sicilian Defence",
+        "broadcastAt": null,
+        "guidance": "Contains some violence.",
+        "rating": 0,
+        "certification": null,
+        "episodeNumber": 5,
+        "seriesNumber": 15,
+        "startAgainVod": null,
+        "startAgainSimulcast": null,
+        "shortSynopsis": "Could the attack which left Harriet Farmer for dead a year ago be linked to moves on a chess board? And where is her boyfriend Finn? ",
+        "britishSignLanguage": false,
+        "hasSubtitles": false,
+        "isLive": false,
+        "liveEventStatus": null
+      }
+    },
+    "images": {
+      "logo": "https://images.ctfassets.net/bd5zurrrnk1g/2Je2uvxSQQMnM7alo6956p/c171dc2158472333b566d3e16c383482/MidsomerMurders.png"
+    },
+    "isKidsChannel": false,
+    "channelDescription": "Inspector Barnaby investigates the murder mysteries of middle England. Stream 24/7 on ITVX",
+    "channelTitle": "Midsomer Murders Channel"
+  }],
+  "images": {
+    "backdrop": "https://images.ctfassets.net/bd5zurrrnk1g/xp8dnvgghHd7y2oJhotvS/af894b559cf3405427d8896e45aa7397/ITVX-FAST-Placeholder.jpeg"
+  },
+  "ts": "2025-02-27T04:00:32.171033295Z"
+}
+
+notes:
+======
+{
+  fetch('https://nownext.oasvc.itv.com/channels')
+    .then(res => res.json())
+    .then(data => data.channels)
+    .then(channels => {console.log(channels.length)})
+
+  // 17
+}
+
+request #2:
+===========
+
+curl 'https://simulcast.itv.com/playlist/itvonline/ITV' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'TE: trailers' \
+  --data-raw '{"client":{"version":"4.1","id":"browser","supportsAdPods":true,"service":"itv.x","appversion":"2.325.3","ssaiClientSdkVersion":"3"},"device":{"manufacturer":"Firefox","model":"115.0","os":{"name":"Windows","version":"7","type":"desktop"},"deviceGroup":"dotcom"},"user":{"token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczovL2F1dGguaXR2LmNvbSIsInN1YiI6ImZiYTE5MGEwLWM3YmEtNDc2OC04YjI4LWMwNTBjNTIyYWE0ZSIsImV4cCI6MTc0MDcxODczNywiaWF0IjoxNzQwNjI4NzM3LCJicm9hZGNhc3RFcnJvck1zZyI6IiIsImJyb2FkY2FzdFJlc3BvbnNlQ29kZSI6IjIwMCIsImJyb2FkY2FzdGVyIjoiSVRWIiwiaXNBY3RpdmUiOnRydWUsIm5vbmNlIjoiY2VyYmVydXMtYXV0aC1yZXF1ZXN0LTE3NDA2Mjg3MzI4NzQiLCJuYW1lIjoiSmFtZXMiLCJzY29wZSI6ImNvbnRlbnQiLCJlbnRpdGxlbWVudHMiOltdLCJwYXltZW50U291cmNlIjoiIiwic2hvd1ByaXZhY3lOb3RpY2UiOmZhbHNlLCJ1bmRlcjE4IjpmYWxzZSwiYWNjb3VudFByb2ZpbGVJZEluVXNlIjoiZmJhMTkwYTAtYzdiYS00NzY4LThiMjgtYzA1MGM1MjJhYTRlXzAiLCJyZWdpb24iOiJsb25kb24iLCJwb3N0Y29kZVZhbGlkYXRlZE9uIjoxNjk5NTIwOTI0MDg3LCJwcm9maWxlVHlwZSI6Ik1haW4ifQ.A4jup1N583VYiSbg0ifbWrgBr6J_AbxltsVvrkQAqG9dYaujxyXtHvY5mqE_Objl6hFjF9wfABHtapNED9HZj_sdOPPQoUdfo0N-RTGvDkVSN2Needv1f65O3eQpOteuWwAlBaIKUntWvVkcAy0KudvDu8F3uBhIUHRtNHv4QRGI-N2s_RtnYStaPttLAe5n3yEU6-GkNwJeATdEaXlBlgs6UdAJSMl7o0elO2nYuzw3Xn8CYWClC_1YN4aqMbFZMmRoJEX4oNP7KJhqFLE_UEBAfNOE6JTZe7yd-u3RXBgCnzMiXwEPGrZNg-8TDAd4h3RRhHUPScCn5czsDby7Sw"},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine"],"max":["mpeg-dash","widevine"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response #2:
+============
+
+{
+  "StatusCode": 200,
+  "AdditionalInfo": {
+    "TransactionId": "f8cbe5f7-c97e-4529-ab1d-f1c69217a34e"
+  },
+  "Playlist": {
+    "Video": {
+      "Duration": "06:00:00:000",
+      "Subtitles": null,
+      "VideoLocations": [{
+        "Url": "https://dar-live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTA0MjMsInBhdGgiOiIiLCJzdWIiOiJmYmExOTBhMC1jN2JhLTQ3NjgtOGIyOC1jMDUwYzUyMmFhNGUiLCJpcCI6IjE0Ny4xMzYuODkuMzIiLCJtaXAiOiJsb2cifQ.vwHpnnbOkMRPCnXUKsCF9t5Z0HLJ4ukA8QYpw5ZgAFw/csm/extlive/itv01,itv1-dotcom-dash-prodb-multicdn.mpd?source=simulcast&size=pattern&supertag=dflt,sim&hmod=115.0&service=itv.x&generic=549ade2c-cb18-44c1-a3ad-bcab82777421&pv=browser.4.1&yo.d.upi=true&player=html5.desktop&yo.ap=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fprdsda%2F&default=defaultpattern&dm=fba190a0-c7ba-4768-8b28-c050c522aa4e&vfunapod=true&yo.t.jt=500&yo.up=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fjwt%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTA0MjMsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLmlzbWwiLCJzdWIiOiJmYmExOTBhMC1jN2JhLTQ3NjgtOGIyOC1jMDUwYzUyMmFhNGUiLCJpcCI6IjE0Ny4xMzYuODkuMzIiLCJtaXAiOiJsb2cifQ.cSehOdtfrpn2W9Ko_z4F_wfzkXTzYvICyJu4w9crhQM%2Fplayout%2Fcommon%2Fitv1%2Fcenc.isml%2F&tppm=x&pm=free&random=3569686945&yo.eb.fb=aHR0cHM6Ly9saXZlLWJsdWUtaXJkZXRvLW1zLmZhc3RseS5jb250ZW50Lml0di5jb20vand0L2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5CeVpFWjZJbjAuZXlKbGVIQWlPakUzTkRBMk5UQTBNak1zSW5CaGRHZ2lPaUl2Y0d4aGVXOTFkQzlqYjIxdGIyNHZhWFIyTVM5alpXNWpMVzV2WkdGeUxtbHpiV3dpTENKemRXSWlPaUptWW1FeE9UQmhNQzFqTjJKaExUUTNOamd0T0dJeU9DMWpNRFV3WXpVeU1tRmhOR1VpTENKcGNDSTZJakUwTnk0eE16WXVPRGt1TXpJaUxDSnRhWEFpT2lKc2IyY2lmUS5xYTBBR3c4UlY5WERELWNXY3ZfYnJKenhlSjEyUnVPMnB3OHJXLU1EWVhFL3BsYXlvdXQvY29tbW9uL2l0djEvY2VuYy1ub2Rhci5pc21sL2RvdGNvbS1sb3cubXBk&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=7&yo.av=3&conttier=x&chanbrand=itv1&os=windows&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&yo.hb=5272&hman=firefox&viewid=0.549ade2c-cb18-44c1-a3ad-bcab82777421&hdevid=x&tdur=21600&tparts=1&arp=x",
+        "StartAgainUrl": "https://live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTA0MjMsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLW5vZGFyLmlzbWwiLCJzdWIiOiJmYmExOTBhMC1jN2JhLTQ3NjgtOGIyOC1jMDUwYzUyMmFhNGUiLCJpcCI6IjE0Ny4xMzYuODkuMzIiLCJtaXAiOiJsb2cifQ.qa0AGw8RV9XDD-cWcv_brJzxeJ12RuO2pw8rW-MDYXE/playout/common/itv1/cenc-nodar.isml/dotcom-low.mpd?t={START_TIME}",
+        "IsDar": true,
+        "KeyServiceUrl": "https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1"
+      }]
+    },
+    "ProductionId": "ITV",
+    "VideoType": "SIMULCAST",
+    "ContentBreaks": [{
+      "TimeCode": "00:00:00:000",
+      "Actions": [{
+        "Type": "ident",
+        "Href": "https://spike.itv.com/itv/tserver/random=3569686945/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=fba190a0-c7ba-4768-8b28-c050c522aa4e/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=iden1/size=videoident/breaknum=0/viewid=0.549ade2c-cb18-44c1-a3ad-bcab82777421/generic=549ade2c-cb18-44c1-a3ad-bcab82777421/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=3569686945/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=fba190a0-c7ba-4768-8b28-c050c522aa4e/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=1/size=video/breaknum=0/viewid=0.549ade2c-cb18-44c1-a3ad-bcab82777421/generic=549ade2c-cb18-44c1-a3ad-bcab82777421/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=3569686945/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=fba190a0-c7ba-4768-8b28-c050c522aa4e/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=last/size=video/breaknum=0/viewid=0.549ade2c-cb18-44c1-a3ad-bcab82777421/generic=549ade2c-cb18-44c1-a3ad-bcab82777421/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=3569686945/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=fba190a0-c7ba-4768-8b28-c050c522aa4e/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=sponlast1/size=videosponsor/breaknum=0/viewid=sponlast1.0.549ade2c-cb18-44c1-a3ad-bcab82777421/generic=549ade2c-cb18-44c1-a3ad-bcab82777421/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }, {
+      "TimeCode": "06:00:00:000",
+      "Actions": [{
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=3569686945/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=fba190a0-c7ba-4768-8b28-c050c522aa4e/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=spon1/size=videosponsor/breaknum=end/viewid=spon1.end.549ade2c-cb18-44c1-a3ad-bcab82777421/generic=549ade2c-cb18-44c1-a3ad-bcab82777421/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }],
+    "Dog": {
+      "Href": "https://hubimages.itv.com/channel-logo/itv1?format=png"
+    },
+    "Cdn": "fastly"
+  }
+}
+
+test:
+=====
+video player = http://webcast-reloaded.frii.site/airplay_sender.html
+video URL    = https://dar-live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTA0MjMsInBhdGgiOiIiLCJzdWIiOiJmYmExOTBhMC1jN2JhLTQ3NjgtOGIyOC1jMDUwYzUyMmFhNGUiLCJpcCI6IjE0Ny4xMzYuODkuMzIiLCJtaXAiOiJsb2cifQ.vwHpnnbOkMRPCnXUKsCF9t5Z0HLJ4ukA8QYpw5ZgAFw/csm/extlive/itv01,itv1-dotcom-dash-prodb-multicdn.mpd?source=simulcast&size=pattern&supertag=dflt,sim&hmod=115.0&service=itv.x&generic=549ade2c-cb18-44c1-a3ad-bcab82777421&pv=browser.4.1&yo.d.upi=true&player=html5.desktop&yo.ap=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fprdsda%2F&default=defaultpattern&dm=fba190a0-c7ba-4768-8b28-c050c522aa4e&vfunapod=true&yo.t.jt=500&yo.up=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fjwt%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTA0MjMsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLmlzbWwiLCJzdWIiOiJmYmExOTBhMC1jN2JhLTQ3NjgtOGIyOC1jMDUwYzUyMmFhNGUiLCJpcCI6IjE0Ny4xMzYuODkuMzIiLCJtaXAiOiJsb2cifQ.cSehOdtfrpn2W9Ko_z4F_wfzkXTzYvICyJu4w9crhQM%2Fplayout%2Fcommon%2Fitv1%2Fcenc.isml%2F&tppm=x&pm=free&random=3569686945&yo.eb.fb=aHR0cHM6Ly9saXZlLWJsdWUtaXJkZXRvLW1zLmZhc3RseS5jb250ZW50Lml0di5jb20vand0L2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5CeVpFWjZJbjAuZXlKbGVIQWlPakUzTkRBMk5UQTBNak1zSW5CaGRHZ2lPaUl2Y0d4aGVXOTFkQzlqYjIxdGIyNHZhWFIyTVM5alpXNWpMVzV2WkdGeUxtbHpiV3dpTENKemRXSWlPaUptWW1FeE9UQmhNQzFqTjJKaExUUTNOamd0T0dJeU9DMWpNRFV3WXpVeU1tRmhOR1VpTENKcGNDSTZJakUwTnk0eE16WXVPRGt1TXpJaUxDSnRhWEFpT2lKc2IyY2lmUS5xYTBBR3c4UlY5WERELWNXY3ZfYnJKenhlSjEyUnVPMnB3OHJXLU1EWVhFL3BsYXlvdXQvY29tbW9uL2l0djEvY2VuYy1ub2Rhci5pc21sL2RvdGNvbS1sb3cubXBk&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=7&yo.av=3&conttier=x&chanbrand=itv1&os=windows&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&yo.hb=5272&hman=firefox&viewid=0.549ade2c-cb18-44c1-a3ad-bcab82777421&hdevid=x&tdur=21600&tparts=1&arp=x
+referer URL  = https://www.itv.com/watch?channel=itv
+DRM scheme   = Widevine
+DRM server   = https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1
+
+result:
+=======
+success!
+
+token:
+======
+{
+  const cookies = document.cookie
+  const indexStart = cookies.indexOf('Itv.Session=')
+  const indexStop  = cookies.indexOf(';', indexStart)
+  const cookie = cookies.substring(indexStart + 'Itv.Session='.length, indexStop).trim()
+  const session = JSON.parse(cookie)
+  const token   = session.tokens.content.access_token
+
+  console.log(token)
+}
+
+--------------------------------------------------------------------------------
+
+test: same request without user access token
+============================================
+
+request #3:
+===========
+
+curl 'https://simulcast.itv.com/playlist/itvonline/ITV' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'TE: trailers' \
+  --data-raw '{"client":{"version":"4.1","id":"browser","supportsAdPods":true,"service":"itv.x","appversion":"2.325.3","ssaiClientSdkVersion":"3"},"device":{"manufacturer":"Firefox","model":"115.0","os":{"name":"Windows","version":"7","type":"desktop"},"deviceGroup":"dotcom"},"user":{"token":""},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine"],"max":["mpeg-dash","widevine"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response #3:
+============
+
+{
+  "StatusCode": 200,
+  "AdditionalInfo": {
+    "TransactionId": "9edcdb9d-ce84-4d64-88b5-dd9ff09caf5a"
+  },
+  "Playlist": {
+    "Video": {
+      "Duration": "06:00:00:000",
+      "Subtitles": null,
+      "VideoLocations": [{
+        "Url": "https://dar-live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ1MTksInBhdGgiOiIiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9.LRi6LkC4rfIYVjb6DyCQzku0Z6n5n0XCPiXx8eHhH3I/csm/extlive/itv01,itv1-dotcom-dash-prodb-multicdn.mpd?source=simulcast&size=pattern&supertag=dflt,sim&hmod=115.0&service=itv.x&generic=521b21af-9070-4972-82e0-31990d996b12&pv=browser.4.1&yo.d.upi=true&player=html5.desktop&yo.ap=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fprdsda%2F&default=defaultpattern&dm=x&vfunapod=true&yo.t.jt=500&yo.up=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fjwt%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ1MTksInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLmlzbWwiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9.fg5_fI5-xWNywB0CfLV15IC5NbKtYWhLoeiEpliQGFg%2Fplayout%2Fcommon%2Fitv1%2Fcenc.isml%2F&tppm=x&pm=free&random=0805742119&yo.eb.fb=aHR0cHM6Ly9saXZlLWJsdWUtaXJkZXRvLW1zLmZhc3RseS5jb250ZW50Lml0di5jb20vand0L2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5CeVpFWjZJbjAuZXlKbGVIQWlPakUzTkRBMk5UUTFNVGtzSW5CaGRHZ2lPaUl2Y0d4aGVXOTFkQzlqYjIxdGIyNHZhWFIyTVM5alpXNWpMVzV2WkdGeUxtbHpiV3dpTENKemRXSWlPaUlpTENKcGNDSTZJamd3TGprekxqRTVOaTR4TmlJc0ltMXBjQ0k2SW14dlp5SjkuX2JXTUdmTkFyZDNOMDFDTXNnQjVlemh1V24xUjN1YlBNd0NiZ1I1Nkw3Zy9wbGF5b3V0L2NvbW1vbi9pdHYxL2NlbmMtbm9kYXIuaXNtbC9kb3Rjb20ubXBk&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=7&yo.av=3&conttier=x&chanbrand=itv1&os=windows&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&hman=firefox&viewid=0.521b21af-9070-4972-82e0-31990d996b12&hdevid=x&tdur=21600&tparts=1&arp=x",
+        "StartAgainUrl": "https://live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ1MTksInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLW5vZGFyLmlzbWwiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9._bWMGfNArd3N01CMsgB5ezhuWn1R3ubPMwCbgR56L7g/playout/common/itv1/cenc-nodar.isml/dotcom.mpd?t={START_TIME}",
+        "IsDar": true,
+        "KeyServiceUrl": "https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1"
+      }]
+    },
+    "ProductionId": "ITV",
+    "VideoType": "SIMULCAST",
+    "ContentBreaks": [{
+      "TimeCode": "00:00:00:000",
+      "Actions": [{
+        "Type": "ident",
+        "Href": "https://spike.itv.com/itv/tserver/random=0805742119/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=x/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=iden1/size=videoident/breaknum=0/viewid=0.521b21af-9070-4972-82e0-31990d996b12/generic=521b21af-9070-4972-82e0-31990d996b12/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=0805742119/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=x/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=1/size=video/breaknum=0/viewid=0.521b21af-9070-4972-82e0-31990d996b12/generic=521b21af-9070-4972-82e0-31990d996b12/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=0805742119/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=x/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=last/size=video/breaknum=0/viewid=0.521b21af-9070-4972-82e0-31990d996b12/generic=521b21af-9070-4972-82e0-319955160d996b12/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=0805742119/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=x/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=sponlast1/size=videosponsor/breaknum=0/viewid=sponlast1.0.521b21af-9070-4972-82e0-31990d996b12/generic=521b21af-9070-4972-82e0-31990d996b12/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }, {
+      "TimeCode": "06:00:00:000",
+      "Actions": [{
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=0805742119/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=true/hdevid=x/hmod=115.0/hman=firefox/osver=7/dm=x/pv=browser.4.1/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=html5.desktop/os=windows/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=spon1/size=videosponsor/breaknum=end/viewid=spon1.end.521b21af-9070-4972-82e0-31990d996b12/generic=521b21af-9070-4972-82e0-31990d996b12/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }],
+    "Dog": {
+      "Href": "https://hubimages.itv.com/channel-logo/itv1?format=png"
+    },
+    "Cdn": "fastly"
+  }
+}
+
+interesting:
+============
+* account login (user access token) is NOT required
+
+--------------------------------------------------------------------------------
+
+..even more data removed:
+
+request #4:
+===========
+
+curl 'https://simulcast.itv.com/playlist/itvonline/ITV' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'TE: trailers' \
+  --data-raw '{"client":{"id":"browser","service":"itv.x"},"device":{"manufacturer":"Firefox","deviceGroup":"dotcom"},"user":{"token":""},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine"],"max":["mpeg-dash","widevine"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response #4:
+============
+
+{
+  "StatusCode": 200,
+  "AdditionalInfo": {
+    "TransactionId": "3ccb6e9b-5ce5-4012-8097-8dcb9b41bf43"
+  },
+  "Playlist": {
+    "Video": {
+      "Duration": "06:00:00:000",
+      "Subtitles": null,
+      "VideoLocations": [{
+        "Url": "https://dar-live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ4MjgsInBhdGgiOiIiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9.gdvHcIdKsMAtYhxR14GrDfhlWzTCP6vON5LueeVp8oo/csm/extlive/itv01,itv1-dotcom-dash-prodb-multicdn.mpd?source=simulcast&size=pattern&supertag=dflt,sim&hmod=x&service=itv.x&generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2&pv=browser.x&yo.d.upi=true&player=x&yo.ap=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fprdsda%2F&default=defaultpattern&vfunapod=false&yo.t.jt=500&yo.up=https%3A%2F%2Fdar-live-blue-irdeto-ms.fastly.content.itv.com%2Fjwt%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ4MjgsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLmlzbWwiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9.wP1c2pLhpg00cqzt-m4yUntUNO376rqn2OggCNg5VEw%2Fplayout%2Fcommon%2Fitv1%2Fcenc.isml%2F&tppm=x&pm=free&random=8286156613&yo.eb.fb=aHR0cHM6Ly9saXZlLWJsdWUtaXJkZXRvLW1zLmZhc3RseS5jb250ZW50Lml0di5jb20vand0L2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5CeVpFWjZJbjAuZXlKbGVIQWlPakUzTkRBMk5UUTRNamdzSW5CaGRHZ2lPaUl2Y0d4aGVXOTFkQzlqYjIxdGIyNHZhWFIyTVM5alpXNWpMVzV2WkdGeUxtbHpiV3dpTENKemRXSWlPaUlpTENKcGNDSTZJamd3TGprekxqRTVOaTR4TmlJc0ltMXBjQ0k2SW14dlp5SjkuTkZ6NjJZbU4ydFVSR25Ja2xUQnVEOGRYMmt3MWh2Vm5uVExkWXE0T0tkQS9wbGF5b3V0L2NvbW1vbi9pdHYxL2NlbmMtbm9kYXIuaXNtbC9kb3Rjb20ubXBk&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=x&conttier=x&chanbrand=itv1&os=x&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&yo.ac=true&dm=x&hman=firefox&viewid=0.2a4b97a2-a254-47be-bb1f-e228e7576ce2&hdevid=x&tdur=21600&tparts=1&arp=x",
+        "StartAgainUrl": "https://live-blue-irdeto-ms.fastly.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJleHAiOjE3NDA2NTQ4MjgsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLW5vZGFyLmlzbWwiLCJzdWIiOiIiLCJpcCI6IjgwLjkzLjE5Ni4xNiIsIm1pcCI6ImxvZyJ9.NFz62YmN2tURGnIklTBuD8dX2kw1hvVnnTLdYq4OKdA/playout/common/itv1/cenc-nodar.isml/dotcom.mpd?t={START_TIME}",
+        "IsDar": true,
+        "KeyServiceUrl": "https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1"
+      }]
+    },
+    "ProductionId": "ITV",
+    "VideoType": "SIMULCAST",
+    "ContentBreaks": [{
+      "TimeCode": "00:00:00:000",
+      "Actions": [{
+        "Type": "ident",
+        "Href": "https://spike.itv.com/itv/tserver/random=8286156613/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=x/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=iden1/size=videoident/breaknum=0/viewid=0.2a4b97a2-a254-47be-bb1f-e228e7576ce2/generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=8286156613/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=x/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=1/size=video/breaknum=0/viewid=0.2a4b97a2-a254-47be-bb1f-e228e7576ce2/generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=8286156613/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=x/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=last/size=video/breaknum=0/viewid=0.2a4b97a2-a254-47be-bb1f-e228e7576ce2/generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=8286156613/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=x/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=sponlast1/size=videosponsor/breaknum=0/viewid=sponlast1.0.2a4b97a2-a254-47be-bb1f-e228e7576ce2/generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }, {
+      "TimeCode": "06:00:00:000",
+      "Actions": [{
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=8286156613/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=x/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=spon1/size=videosponsor/breaknum=end/viewid=spon1.end.2a4b97a2-a254-47be-bb1f-e228e7576ce2/generic=2a4b97a2-a254-47be-bb1f-e228e7576ce2/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }],
+    "Dog": {
+      "Href": "https://hubimages.itv.com/channel-logo/itv1?format=png"
+    },
+    "Cdn": "fastly"
+  }
+}
+
+notes:
+======
+* still good
+
+summary:
+========
+* request #1:
+  - obtains the "name" and "streamUrl" of every available channel
+  - this same data is also available in the DOM
+    * but parsing is slower, and extraction requires waiting until the DOM is ready
+* request #4:
+  - obtains the .mpd (dash) video URL and Widevine license server from "streamUrl"
+
+--------------------------------------------------------------------------------
