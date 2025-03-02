@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         itv
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.0.0
+// @version      1.0.1
 // @match        *://*.itv.com/*
 // @icon         https://assets.fe.itv.com/images/brands/itvx/itvx-favicon-blue-144x144px.png
 // @run-at       document-end
@@ -673,9 +673,11 @@ var normalize_series_media_items = function(old_items) {
         )
       : null
 
-    var title = old_item.episodeTitle
-    if (title && old_item.contentInfo) {
-      title = '[' + old_item.contentInfo + '] ' + title
+    var title = old_item.episodeTitle || old_item.heroCtaLabel
+    if (old_item.contentInfo) {
+      title = title
+        ? ('[' + old_item.contentInfo + '] ' + title)
+        : old_item.contentInfo
     }
 
     var new_item = {
