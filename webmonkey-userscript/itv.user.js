@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         itv
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.0.1
+// @version      1.0.2
 // @match        *://*.itv.com/*
 // @icon         https://assets.fe.itv.com/images/brands/itvx/itvx-favicon-blue-144x144px.png
 // @run-at       document-end
@@ -194,6 +194,7 @@ var download_text = function(url, headers, data, withCredentials, callback) {
     if (xhr.readyState === 4) {
       if ((xhr.status >= 200) && (xhr.status < 300)) {
         callback(null, xhr.responseText)
+        return
       }
     }
     callback(new Error())
