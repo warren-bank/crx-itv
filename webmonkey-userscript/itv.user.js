@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         itv
 // @description  Improve site usability. Watch videos in external player.
-// @version      1.0.2
+// @version      1.0.3
 // @match        *://*.itv.com/*
 // @icon         https://assets.fe.itv.com/images/brands/itvx/itvx-favicon-blue-144x144px.png
 // @run-at       document-end
@@ -674,11 +674,14 @@ var normalize_series_media_items = function(old_items) {
         )
       : null
 
-    var title = old_item.episodeTitle || old_item.heroCtaLabel
+    var title = old_item.episodeTitle
     if (old_item.contentInfo) {
       title = title
         ? ('[' + old_item.contentInfo + '] ' + title)
         : old_item.contentInfo
+    }
+    if (!title && old_item.heroCtaLabel && (typeof old_item.heroCtaLabel === 'object') && old_item.heroCtaLabel.episodeLabel) {
+      title = old_item.heroCtaLabel.episodeLabel
     }
 
     var new_item = {
@@ -794,8 +797,8 @@ var download_video_sources = function(api_url, callback) {
     "variantAvailability": {
       "player": "dash",
       "featureset": {
-        "min": ["mpeg-dash", "widevine"],
-        "max": ["mpeg-dash", "widevine"]
+        "min": ["mpeg-dash", "widevine", "hd", "outband-webvtt"],
+        "max": ["mpeg-dash", "widevine", "hd", "outband-webvtt"]
       },
       "platformTag": "dotcom",
       "drm": {
@@ -848,9 +851,11 @@ var normalize_api_media_data = function(api_media_data, callback) {
   }
 
   var video_sources = []
-  var i, src, has_drm, video_data
+  var i, base_url, src, has_drm, video_data
 
   if (is_vod) {
+    base_url = api_media_data.Base || ''
+
     for (i=0; i < api_media_data.MediaFiles.length; i++) {
       src = api_media_data.MediaFiles[i]
       if (!src || (typeof src !== 'object') || !src.Href) continue
@@ -858,7 +863,7 @@ var normalize_api_media_data = function(api_media_data, callback) {
       has_drm = !!src.KeyServiceUrl
 
       video_data = {
-        video_url:   src.Href,
+        video_url:   base_url + src.Href,
         video_type:  'application/dash+xml',
         caption_url: caption_url,
         referer_url: null,

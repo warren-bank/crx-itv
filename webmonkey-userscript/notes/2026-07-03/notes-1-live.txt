@@ -1,0 +1,82 @@
+--------------------------------------------------------------------------------
+
+request #4 (revisited):
+=======================
+
+curl --silent 'https://simulcast.itv.com/playlist/itvonline/ITV' \
+  -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Content-Type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'TE: trailers' \
+  --data-raw '{"client":{"id":"browser","service":"itv.x"},"device":{"manufacturer":"Firefox","deviceGroup":"dotcom"},"user":{"token":""},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine"],"max":["mpeg-dash","widevine"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response #4 (without VPN):
+==========================
+{"error":"geoblock",  "IP":"xxx.xxx.xxx.xxx"}
+
+response #4 (with VPN):
+=======================
+
+{
+  "StatusCode": 200,
+  "AdditionalInfo": {
+    "TransactionId": "b888c00d-0ece-4fd2-8b86-7b8605b60623"
+  },
+  "Playlist": {
+    "Video": {
+      "Duration": "06:00:00:000",
+      "Subtitles": null,
+      "VideoLocations": [{
+        "Url": "https://abmhvocaaaaaaaamaaaaaaaaaaaaa.dar-live-red-irdeto-ms.cloudfront.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJzdGVlciI6InA9ZCxvPWkscz1yIiwiaXAiOiIxOTUuMjEzLjE5NC45MSIsInBhdGgiOiIiLCJleHAiOjE3ODMwOTYzMDMsIm1pcCI6ImxvZyIsInN1YiI6IiIsInNpZCI6ImI4ODhjMDBkLTBlY2UtNGZkMi04Yjg2LTdiODYwNWI2MDYyMyJ9.KiOdSeS2_2mIpqngohbi3348xfZXGJwZYR7qKdUyW70/csm/extlive/itv01,itv1-dotcom-dash-proda-multicdn.mpd?source=simulcast&size=pattern&supertag=dflt,sim&hmod=x&service=itv.x&generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa&pv=browser.x&yo.d.upi=true&yo.ap=https%3A%2F%2Fabmhvocaaaaaaaamaaaaaaaaaaaaa.dar-live-red-irdeto-ms.cloudfront.content.itv.com%2Fprdsda%2F&default=defaultpattern&vfunapod=false&yo.t.jt=1000&yo.up=https%3A%2F%2Fabmhvocaaaaaaaamaaaaaaaaaaaaa.dar-live-red-irdeto-ms.cloudfront.content.itv.com%2Fjwt%2FeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJzdGVlciI6InA9ZCxvPWkscz1yIiwiaXAiOiIxOTUuMjEzLjE5NC45MSIsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLmlzbWwiLCJleHAiOjE3ODMwOTYzMDMsIm1pcCI6ImxvZyIsInN1YiI6IiIsInNpZCI6ImI4ODhjMDBkLTBlY2UtNGZkMi04Yjg2LTdiODYwNWI2MDYyMyJ9.CwjuHiQW6OSyBjFM5_eURRFFCbvmAgEV2wD-digVZKQ%2Fplayout%2Fcommon%2Fitv1%2Fcenc.isml%2F&tppm=x&pm=free&random=8603983876&yo.eb.fb=aHR0cHM6Ly9hYm1odm9jYWFhYWFhYWFtYWFhYWFhYWFhYWFhYS5saXZlLXJlZC1pcmRldG8tbXMuY2xvdWRmcm9udC5jb250ZW50Lml0di5jb20vand0L2V5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlJc0ltdHBaQ0k2SW5CeVpFWjZJbjAuZXlKemRHVmxjaUk2SW5BOVpDeHZQV2tzY3oxeUlpd2lhWEFpT2lJeE9UVXVNakV6TGpFNU5DNDVNU0lzSW5CaGRHZ2lPaUl2Y0d4aGVXOTFkQzlqYjIxdGIyNHZhWFIyTVM5alpXNWpMVzV2WkdGeUxtbHpiV3dpTENKbGVIQWlPakUzT0RNd09UWXpNRE1zSW0xcGNDSTZJbXh2WnlJc0luTjFZaUk2SWlJc0luTnBaQ0k2SW1JNE9EaGpNREJrTFRCbFkyVXROR1prTWkwNFlqZzJMVGRpT0RZd05XSTJNRFl5TXlKOS5QdFZzTnhxOTIyRC03OEZFOGRKOXBlV3ZfYzR2S2xTVGxBeXNhVTdJM2VJL3BsYXlvdXQvY29tbW9uL2l0djEvY2VuYy1ub2Rhci5pc21sL2RvdGNvbS5tcGQ%3D&area=itvplayer.simulcast.simadreplacement&rh=x&yo.br=false&subserv=x&us=ano&site=itv&osver=x&conttier=x&chanbrand=itv1&os=x&yo.tracking=true&plfcid=simadreplacement&plist=simadreplacement&yo.ad=false&yo.ch=true&profile=adult&player=x&yo.ac=true&dm=nli&hman=firefox&viewid=0.8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa&hdevid=x&tdur=21600&tparts=1&arp=x",
+        "StartAgainUrl": "https://abmhvocaaaaaaaamaaaaaaaaaaaaa.live-red-irdeto-ms.cloudfront.content.itv.com/jwt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6InByZEZ6In0.eyJzdGVlciI6InA9ZCxvPWkscz1yIiwiaXAiOiIxOTUuMjEzLjE5NC45MSIsInBhdGgiOiIvcGxheW91dC9jb21tb24vaXR2MS9jZW5jLW5vZGFyLmlzbWwiLCJleHAiOjE3ODMwOTYzMDMsIm1pcCI6ImxvZyIsInN1YiI6IiIsInNpZCI6ImI4ODhjMDBkLTBlY2UtNGZkMi04Yjg2LTdiODYwNWI2MDYyMyJ9.PtVsNxq922D-78FE8dJ9peWv_c4vKlSTlAysaU7I3eI/playout/common/itv1/cenc-nodar.isml/dotcom.mpd?t={START_TIME}",
+        "IsDar": true,
+        "Codec": "h264",
+        "KeyServiceUrl": "https://itvpnp.live.ott.irdeto.com/Widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=ITV1"
+      }]
+    },
+    "ProductionId": "ITV",
+    "VideoType": "SIMULCAST",
+    "ContentBreaks": [{
+      "TimeCode": "00:00:00:000",
+      "Actions": [{
+        "Type": "ident",
+        "Href": "https://spike.itv.com/itv/tserver/random=8603983876/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/profile=adult/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=iden1/size=videoident/breaknum=0/viewid=0.8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=8603983876/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/profile=adult/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=1/size=video/breaknum=0/viewid=0.8fd0f0e1-0bee-41a1-8e55-63231f0dc7c0e0fa/generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "advert",
+        "Href": "https://spike.itv.com/itv/tserver/random=8603983876/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/profile=adult/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=last/size=video/breaknum=0/viewid=0.8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }, {
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=8603983876/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/profile=adult/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=sponlast1/size=videosponsor/breaknum=0/viewid=sponlast1.0.8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }, {
+      "TimeCode": "06:00:00:000",
+      "Actions": [{
+        "Type": "sponsor",
+        "Href": "https://spike.itv.com/itv/tserver/random=8603983876/supertag=dflt,sim/area=itvplayer.simulcast/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=x/tppm=x/profile=adult/source=simulcast/us=ano/arp=x/tparts=1/tdur=21600/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x/adpos=spon1/size=videosponsor/breaknum=end/viewid=spon1.end.8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/generic=8fd0f0e1-0bee-41a1-8e55-6f0dc7c0e0fa/plist=default.i1.s1.pr2.m4.po0/plfcid=default"
+      }]
+    }],
+    "Dog": {
+      "Href": "https://hubimages.itv.com/channel-logo/itv1?format=png"
+    },
+    "Cdn": "cloudfront"
+  }
+}
+
+notes:
+======
+* still good
+
+--------------------------------------------------------------------------------

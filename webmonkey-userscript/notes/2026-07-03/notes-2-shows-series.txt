@@ -1,0 +1,165 @@
+--------------------------------------------------------------------------------
+
+request (revisited):
+====================
+
+curl --silent 'https://magni.itv.com/playlist/itvonline/ITV/PC_6482_06.001' \
+  -X POST -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'content-type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' \
+  --data-raw '{"client":{"id":"browser","service":"itv.x"},"device":{"manufacturer":"Firefox","deviceGroup":"dotcom"},"user":{"token":""},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine"],"max":["mpeg-dash","widevine"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response:
+=========
+
+{
+  "StatusCode" : 200,
+  "AdditionalInfo" : {
+    "TransactionId" : "oas-magni-882900-gThzwn",
+    "Message" : null
+  },
+  "Playlist" : {
+    "Video" : {
+      "Duration" : "01:32:45:000",
+      "Timecodes" : {
+        "OpeningTitles" : null,
+        "EndCredits" : null,
+        "Recap" : null
+      },
+      "Base" : "https://vod-blue-irdeto-cw.fastly.content.itv.com/",
+      "MediaFiles" : [
+        {
+          "Href" : "jwt/eyJhbGciOiJIUzI1NiIsImtpZCI6InByZDE3IiwidHlwIjoiSldUIn0.eyJleHAiOjE3ODMwOTMyODIsIm1hbl9maWx0ZXIiOiIxNWE5ZDc2NmQzNTJhYjMzOTliYWIyOTY1MTE2M2Y1MCIsInBhdGgiOiIvUEMtNjQ4Mi0wNi0wMDEvMTgvNy9WQVIwNzUtU0QtUy9QQy02NDgyLTA2LTAwMV8xOF83X1ZBUjA3NS1TRC1TLmlzbS8iLCJzdWIiOm51bGwsImlwIjoiMTk1LjIxMy4xOTQuOTEiLCJtaXAiOiJsb2cifQ.zngGCNdIVyPjlI8cy0kY4h5kXc2OfPCGyzhblb2kZgE/PC-6482-06-001/18/7/VAR075-SD-S/PC-6482-06-001_18_7_VAR075-SD-S.ism/.mpd?filter=%28%28type%3D%3D%22video%22%26%26DisplayHeight%3C%3D576%29%7C%7C%28type%21%3D%22video%22%29%29",
+          "KeyServiceUrl" : "https://itvpnp.live.ott.irdeto.com/widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=PC-6482-06-001_18",
+          "Resolution" : null,
+          "Cdn" : null
+        }
+      ],
+      "Subtitles" : null,
+      "Token" : null
+    },
+    "ProductionId" : "PC/6482/06#001",
+    "VideoType" : "CATCHUP",
+    "ContentBreaks" : [...],
+    "PauseAd" : {
+      "Href" : "https://tom.itv.com/itv/tserver/default=defaultpausead/size=pausead/supertag=dflt,itv.y_1096_0002/area=itvplayer.video/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=free/tppm=x/profile=adult/generic=86d4a0dc-09f6-4181-adc4-ac0e09e70704/viewid=86d4a0dc-09f6-4181-adc4-ac0e09e70704/source=catchup/us=ano/arp=none/tparts=8/tdur=5565/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x"
+    },
+    "Dog" : {
+      "Href" : "https://magni.itv.com/img/itv.png"
+    },
+    "Thumbnails" : null
+  }
+}
+
+issues:
+=======
+  1. no subtitles
+  2. video URL is now relative to a "base" URL
+
+--------------------------------------------------------------------------------
+
+issue #1:
+=========
+  * update "featureset"
+    - old: ["mpeg-dash","widevine"]
+    - new: ["mpeg-dash","widevine","hd","outband-webvtt"]
+
+request (revisited):
+====================
+
+curl --silent 'https://magni.itv.com/playlist/itvonline/ITV/PC_6482_06.001' \
+  -X POST -H 'User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0' \
+  -H 'Accept: application/vnd.itv.online.playlist.sim.v3+json' \
+  -H 'Accept-Language: en-US,en;q=0.5' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'content-type: application/json' \
+  -H 'Origin: https://www.itv.com' \
+  -H 'Connection: keep-alive' \
+  -H 'Referer: https://www.itv.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' \
+  --data-raw '{"client":{"id":"browser","service":"itv.x"},"device":{"manufacturer":"Firefox","deviceGroup":"dotcom"},"user":{"token":""},"variantAvailability":{"player":"dash","featureset":{"min":["mpeg-dash","widevine","hd","outband-webvtt"],"max":["mpeg-dash","widevine","hd","outband-webvtt"]},"platformTag":"dotcom","drm":{"system":"widevine","maxSupported":"L3"}}}'
+
+response:
+=========
+
+{
+  "StatusCode" : 200,
+  "AdditionalInfo" : {
+    "TransactionId" : "oas-magni-484443-uGZp2i",
+    "Message" : null
+  },
+  "Playlist" : {
+    "Video" : {
+      "Duration" : "01:32:45:000",
+      "Timecodes" : {
+        "OpeningTitles" : null,
+        "EndCredits" : null,
+        "Recap" : null
+      },
+      "Base" : "https://vod-blue-irdeto-cw.fastly.content.itv.com/",
+      "MediaFiles" : [
+        {
+          "Href" : "jwt/eyJhbGciOiJIUzI1NiIsImtpZCI6InByZDE3IiwidHlwIjoiSldUIn0.eyJleHAiOjE3ODMwOTM4ODQsIm1hbl9maWx0ZXIiOiIxNWE5ZDc2NmQzNTJhYjMzOTliYWIyOTY1MTE2M2Y1MCIsInBhdGgiOiIvUEMtNjQ4Mi0wNi0wMDEvMTgvNy9WQVIwNzUtU0QtUy9QQy02NDgyLTA2LTAwMV8xOF83X1ZBUjA3NS1TRC1TLmlzbS8iLCJzdWIiOm51bGwsImlwIjoiMTk1LjIxMy4xOTQuOTEiLCJtaXAiOiJsb2cifQ.JW8NFUiwgDE3OsiS4HTjXaW5wbMBWfZwbS3WuVlovbE/PC-6482-06-001/18/7/VAR075-SD-S/PC-6482-06-001_18_7_VAR075-SD-S.ism/.mpd?filter=%28%28type%3D%3D%22video%22%26%26DisplayHeight%3C%3D576%29%7C%7C%28type%21%3D%22video%22%29%29",
+          "KeyServiceUrl" : "https://itvpnp.live.ott.irdeto.com/widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=PC-6482-06-001_18",
+          "Resolution" : null,
+          "Cdn" : null
+        }
+      ],
+      "Subtitles" : [
+        {
+          "Href" : "https://vod-subtitle-blue-irdeto-cw.fastly.content.itv.com/subtitles/PC-6482-06-001/Subtitles/26/WebVTT-OUT-OF-BAND/PC-6482-06-001_Series1671641309_TX000000.vtt"
+        }
+      ],
+      "Token" : null
+    },
+    "ProductionId" : "PC/6482/06#001",
+    "VideoType" : "CATCHUP",
+    "ContentBreaks" : [...],
+    "PauseAd" : {
+      "Href" : "https://tom.itv.com/itv/tserver/default=defaultpausead/size=pausead/supertag=dflt,itv.y_1096_0002/area=itvplayer.video/vfunapod=false/hdevid=x/hmod=x/hman=firefox/osver=x/dm=nli/pv=browser.x/rh=x/subserv=x/conttier=free/tppm=x/profile=adult/generic=600a4ccb-75e2-4959-8703-1586e0e697a6/viewid=600a4ccb-75e2-4959-8703-1586e0e697a6/source=catchup/us=ano/arp=none/tparts=8/tdur=5565/player=x/os=x/pm=free/chanbrand=itv1/site=itv/service=itv.x"
+    },
+    "Dog" : {
+      "Href" : "https://magni.itv.com/img/itv.png"
+    },
+    "Thumbnails" : null
+  }
+}
+
+result:
+=======
+  * has subtitles
+
+--------------------------------------------------------------------------------
+
+issue #1:
+=========
+  * video URL = (response.Playlist.Video.Base + response.Playlist.Video.MediaFiles[0].Href)
+
+test:
+=====
+video player = http://webcast-reloaded.frii.site/airplay_sender.html
+video URL    = https://vod-blue-irdeto-cw.fastly.content.itv.com/jwt/eyJhbGciOiJIUzI1NiIsImtpZCI6InByZDE3IiwidHlwIjoiSldUIn0.eyJleHAiOjE3ODMwOTM4ODQsIm1hbl9maWx0ZXIiOiIxNWE5ZDc2NmQzNTJhYjMzOTliYWIyOTY1MTE2M2Y1MCIsInBhdGgiOiIvUEMtNjQ4Mi0wNi0wMDEvMTgvNy9WQVIwNzUtU0QtUy9QQy02NDgyLTA2LTAwMV8xOF83X1ZBUjA3NS1TRC1TLmlzbS8iLCJzdWIiOm51bGwsImlwIjoiMTk1LjIxMy4xOTQuOTEiLCJtaXAiOiJsb2cifQ.JW8NFUiwgDE3OsiS4HTjXaW5wbMBWfZwbS3WuVlovbE/PC-6482-06-001/18/7/VAR075-SD-S/PC-6482-06-001_18_7_VAR075-SD-S.ism/.mpd?filter=%28%28type%3D%3D%22video%22%26%26DisplayHeight%3C%3D576%29%7C%7C%28type%21%3D%22video%22%29%29
+caption URL  = https://vod-subtitle-blue-irdeto-cw.fastly.content.itv.com/subtitles/PC-6482-06-001/Subtitles/26/WebVTT-OUT-OF-BAND/PC-6482-06-001_Series1671641309_TX000000.vtt
+referer URL  = https://www.itv.com/watch/midsomer-murders/Ya1096/Ya1096a0002
+DRM scheme   = Widevine
+DRM server   = https://itvpnp.live.ott.irdeto.com/widevine/getlicense?CrmId=itvpnp&AccountId=itvpnp&ContentId=PC-6482-06-001_18
+
+result:
+=======
+  * success!
+
+--------------------------------------------------------------------------------
